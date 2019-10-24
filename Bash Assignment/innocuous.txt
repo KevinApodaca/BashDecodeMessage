@@ -1,0 +1,1969 @@
+Triggerfish 760-126 Starry Triggerfish Abalistes stellatus 
+Bream 426-242 Bream Abramis brama  
+Sea 820-181 Bass Argentine Sea Bass Acanthistius
+Cockle 156-30 Spiny Cockle Acanthocardia aculeata 
+Cockle 908-222 Knotted Cockle Acanthocardia tuberculata 
+Wahoo 448-180 Wahoo Acanthocybium solandri  
+Porgy 398-165 or Sea Bream River Bream
+Cowfish 696-76 Honeycomb Cowfish Acanthostracion polygonius 
+Cowfish 590-244 Scrawled Cowfish Acanthostracion quadricornis 
+Tang 156-204 or Surgeonfish Doctorfish Acanthurus chirurgus
+Tang 132-140 or Surgeonfish Blue Tang Acanthurus
+Tang 984-210 or Surgeonfish Striped Surgeonfish 
+ 422-246     
+Tang 792-44 or Surgeonfish Yellowfin Surgeonfish Acanthurus
+Snail 568-238 or Escargot Giant African Snail
+Sturgeon 204-5 Siberian Sturgeon Acipenser baerii 
+Sturgeon 848-185 Yangtze Sturgeon Acipenser dabryanus 
+Sturgeon 758-50 Lake Sturgeon Acipenser fulvescens 
+Sturgeon 748-110 Russian Sturgeon Acipenser gueldenstaedtii 
+Sturgeon 466-200 Green Sturgeon Acipenser medirostris 
+Sturgeon 322-24 Japanese Sturgeon Acipenser multiscutatus 
+Sturgeon 884-250 Thorn Sturgeon Acipenser nudiventris 
+Sturgeon 620-40 Atlantic Sturgeon Acipenser oxyrinchus 
+Sturgeon 438-253 Sterlet Acipenser ruthenus  
+Sturgeon 990-119 Amur Sturgeon Acipenser schrenckii 
+Sturgeon 422-177 Stellate Sturgeon Acipenser stellatus 
+Sturgeon 126-73 White Sturgeon Acipenser transmontanus 
+Scallop 246-146 Red-ribbed Scallop Aequipecten glyptus 
+Grouper 520-70 Redmouth Grouper Aethaloperca rogaa 
+Ray 526-136 Eagle Spotted Eagle Ray Aetobatus
+Mullet 638-208 Mountain Mullet Agonostomus monticola 
+Gangetic 14-8 Ailia Gangetic Ailia Ailia coila
+Kajuli 90-114 Jamuna Ailia Ailichthys punctatus 
+Grenadier 370-41 Giant Rattail Albatrossia pectoralis 
+Bonefish 460-97 Bonefish Albula vulpes  
+Mullet 530-7 Yelloweye Mullet Aldrichetta forsteri 
+Pompano 608-82 African Pompano Alectis ciliaris 
+Jack 780-107 or Crevalle Indian Threadfish Alectis
+Alligator 162-249 American Alligator Alligator mississippiensis 
+Alligator 210-47 Chinese Alligator Alligator sinensis 
+Oreo 754-184 Dory or Deep Sea Dory
+Smelt 82-254 Whitebait Smelt Allosmerus elongatus 
+Tuna 870-110 (*) Slender Tuna Allothunnus fallai
+Shark 226-162 Thresher Pelagic Thresher Shark Alopias
+Shark 444-233 Thresher Bigeye Thresher Shark Alopias
+Shark 10-168 Thresher Common Thresher Shark Alopias
+Herring 38-54 or River Herring Blueback Herring
+Shad 250-117 Twaite Shad Alosa agone 
+Shad 42-94 Alabama Shad Alosa alabamae 
+Shad 898-190 Allis Shad Alosa alosa 
+Herring 924-111 or River Herring Skipjack Herring
+Shad 264-6 Hickory Shad Alosa mediocris 
+Alewife 432-201 or River Herring Alewife Alosa
+Shad 150-16 American Shad Alosa sapidissima 
+Hamlet 128-133 Mutton Mutton Hamlet Alphestes afer
+Filefish 158-188 Unicorn Filefish Aluterus monoceros 
+Filefish 974-199 Orange Filefish Aluterus schoepfii 
+Bass 338-124 Roanoke Bass Ambloplites cavifrons 
+Bass 202-114 Ozark Bass Ambloplites constellatus 
+Bass 16-205 Rock Bass Ambloplites rupestris 
+Carplet 96-205 or Mola Mola Carplet Amblypharyngodon
+Skate 212-209 Thorny Skate Amblyraja radiata 
+Catfish 292-75 White Catfish Ameiurus catus 
+Bullhead 370-174 or Catfish Black Bullhead Ameiurus
+Bullhead 550-179 Yellow Bullhead Ameiurus natalis 
+Bullhead 960-187 or Catfish Brown Bullhead Ameiurus
+Bullhead 968-135 Flat Bullhead Ameiurus platycephalus 
+Bowfin 964-177 Bowfin Amia calva  
+Sand 808-39 Lance American Sand Lance Ammodytes
+Sand 884-194 Lance Northern Sand Lance Ammodytes
+Sand 922-219 Lance Pacific Sand Lance Ammodytes
+Sand 104-133 Lance (Sand Lances) Ammodytes spp.
+Cichlid 938-204 Pastel Cichlid Amphilophus alfari 
+Cichlid 240-85 Midas Cichlid Amphilophus citrinellus 
+Cichlid 802-124 or Carate Red Breast Cichlid
+Surfperch 902-115 Barred Surfperch Amphistichus argenteus 
+Surfperch 484-85 Calico Surfperch Amphistichus koelzi 
+Surfperch 102-216 Redtail Surfperch Amphistichus rhodoterus 
+Scallop 370-9 Scallop Saucer Amusium japonicum 
+Scallop 836-191 Paper Scallop Amusium papyraceum 
+Scallop 156-188 Thailand moon scallop Amusium pleuronectes
+Climbing 848-40 Perch Climbing Perch Anabas testudineus
+Arkshell 748-235 Skewed Ark Anadara baughmani 
+Arkshell 754-118 Mogai Clam Anadara subcrenata 
+Wolffish 302-151 Northern Wolffish Anarhichas denticulatus 
+Wolffish 778-96 Atlantic Wolffish Anarhichas lupus 
+Wolffish 424-80 Spotted Wolffish Anarhichas minor 
+Wolffish 894-197 Bering Wolffish Anarhichas orientalis 
+Wolffish 416-186 (Wolffish) Anarhichas spp.  
+Anchovy 576-9 Key Anchovy Anchoa cayorum 
+Anchovy 150-28 Deepbody Anchovy Anchoa compressa 
+Anchovy 18-86 Slough Anchovy Anchoa delicatissima 
+Anchovy 842-39 Striped Anchovy Anchoa hepsetus 
+Anchovy 634-35 Dusky Anchovy Anchoa lyolepis 
+Anchovy 928-126 Bay Anchovy Anchoa mitchilli 
+Anchovy 698-13 Anchovy Anchoviella lepidentostole  
+Anchovy 902-131 Flat Anchovy Anchoviella perfasciata 
+Flounder 878-218 Three-eye Flounder Ancylopsetta dilecta 
+Eel 626-215 European Eel Anguilla anguilla 
+Eel 354-159 Short-finned Eel Anguilla australis 
+Eel 504-47 Long-finned Eel Anguilla dieffenbachii 
+Eel 40-147 Japanese Eel Anguilla japonica 
+Eel 226-158 Freshwater American Eel Anguilla rostrata
+Grunt 166-54 or Sargo Sargo Anisotremus davidsonii
+Grunt 656-74 Burrito Grunt Anisotremus interruptus 
+Grunt 704-148 or Margate Black Margate Anisotremus
+Grunt 910-180 or Catalina Catalina Anisotremus taeniatus
+Grunt 680-1 or Porkfish Porkfish Anisotremus virginicus
+Sablefish 936-153 Sablefish Anoplopoma fimbria  
+Boarfish 906-45 Deepbody Boarfish Antigonia capros 
+Boarfish 444-178 Shortspine Boarfish Antigonia combatia 
+Cod 222-57 Morid Blue Antimora Antimora rostrata
+Grouper 642-213 Slender Grouper Anyperodon leucogrammicus 
+Turtle 252-84 (Softshell Turtles) Apalone spp. 
+Cutlassfish 372-36 Black Scabbardfish Aphanopus carbo 
+Jobfish 166-71 or Snapper Smalltooth Jobfish Aphareus
+Jobfish 142-86 or Snapper Rusty Jobfish Aphareus
+Drum 334-104 Freshwater Freshwater Drum Aplodinotus grunniens
+Chiring 718-241 Chiring Apocryptes bato  
+Sea 322-120 Cucumber Sea Cucumber Apostichopus spp.
+Jobfish 860-47 or Snapper Green Jobfish Aprion
+Snapper 850-132 Black Snapper Apsilus dentatus 
+Snapper 924-127 African Forktail Snapper Apsilus fuscus
+Pirarucu 58-211 or Paima Arapaima Arapaima gigas
+Cockle 132-156 Blood Cockle Arca granosa 
+Arkshell 748-171 Mossy Ark Arca imbricata 
+Arkshell 860-181 Noah's Ark Arca noae 
+Arkshell 634-149 Turkey Wing Arca zebra 
+Sunfish 718-120 Sacramento Perch Archoplites interruptus 
+Sheepshead 308-1 Sheepshead Archosargus probatocephalus  
+Sea 676-80 Bream Sea Bream Archosargus rhomboidalis
+Clam 316-86 Hard Ocean Quahog Arctica islandica
+Cod 894-57 Toothed Cod Arctogadus borisovi 
+Cod 776-102 Polar Cod Arctogadus glacialis 
+Argentine 452-92 Silverside Argentina elongata  
+Smelt 554-77 Great Silver Smelt Argentina silus
+Smelt 728-169 Lesser Silver Smelt Argentina sphyraena
+Scallop 26-246 Scallop Argopecten aequisulcatus  
+Scallop 208-39 Calico Atlantic Calico Scallop Argopecten
+Scallop 360-222 or Bay Scallop Bay Scallop
+Scallop 608-225 Lined Scallop Argopecten lineolaris 
+Scallop 614-50 Nucleus Scallop Argopecten nucleus 
+Scallop 484-124 Peruvian Scallop Argopecten purpuratus 
+Scallop 488-206 Calico Pacific Calico Scallop Argopecten
+Bream 842-203 Taiwan Tai Argyrops bleekeri 
+Bream 572-162 Long-spined Red Bream Argyrops spinifer
+Croaker 682-5 Cob Argyrosomus hololepidotus  
+Croaker 628-94 Japanese Croaker Argyrosomus japonicus 
+Croaker 940-60 or Shadefish Meagre Argyrosomus regius
+Whiskered 862-141 Fish Hardhead Catfish (&dagger;) Ariopsis
+Eel 960-200 Conger Bandtooth Conger Ariosoma balearicum
+Flounder 654-124 Witch Arnoglossus scapha  
+Puffer 0-157 (Puffers) Arothron spp.  
+Kahawai 298-127 Australian Ruff Arripis georgianus 
+Kahawai 874-62 Kahawai Arripis trutta  
+Sole 702-103 Milky Spotted Sole Aseraggodes kobensis
+Sole 760-108 Narrowbanded Sole Aseraggodes macleayanus 
+Crawfish 386-19 or Crayfish (Crayfishes) Astacus spp.
+Oscar 138-223 Oscar Astronotus ocellatus  
+Flounder 538-159 Kamchatka Flounder Atheresthes evermanni 
+Flounder 256-164 Arrowtooth Arrowtooth Flounder Atheresthes stomias
+Silverside 608-184 Big-Scale Smelt Atherina boyeri 
+Silverside 364-55 Topsmelt Atherinops affinis  
+Silverside 602-30 Jacksmelt Atherinopsis californiensis  
+Seabass 912-159 White Seabass Atractoscion nobilis 
+Gar 936-1 Alligator Gar Atractosteus spatula 
+Pen 144-207 Shell Pen Shell Atrina pectinata
+Penshell 142-74 Sawtooth Penshell Atrina serrata 
+Croaker 60-10 Blackmouth Croaker Atrobucca nibe 
+Scad 126-187 Yellowtail Scad Atule mate 
+Mussel 320-43 Cholga Mussel Aulacomya ater 
+Sole 900-204 West Coast Sole Austroglossus microlepis
+Sole 868-66 Mud Sole Austroglossus pectoralis 
+Clam 468-246 Venus New Zealand Cockle Austrovenus
+Tuna 564-170 (*) Bullet Tuna Auxis rochei
+Tuna 172-94 (*) Frigate Tuna Auxis thazard
+Whelk 980-38 or Sea Snail Maculated Ivory
+Goonch 290-121 or Ayres Goonch Bagarius bagarius
+Sucker 534-100 Catfishes (&dagger;) Bagarius spp. 
+Goonch 784-201 Bagarius yarrelli   
+Gafftopsail 872-44 Fish or Gafftopsail Whiskered Fish
+Perch 376-5 Silver Silver Perch Bairdiella chrysoura
+Barnacle 536-20 Balanus spp.   
+Triggerfish 610-62 Gray Triggerfish Balistes capriscus 
+Triggerfish 354-124 Queen Triggerfish Balistes vetula 
+Arkshell 718-29 Arkshell Barbatia cancellaria  
+Arkshell 492-254 Barbatia spp.   
+Red 276-204 Tailed Tinfoil or Barb Red
+Barb 246-35 Tinfoil Barb Barbonymus schwanenfeldii 
+Silverside 790-6 South American Silverside Basilichthys australis
+Eel 164-141 Conger Sea Eel Bathycongrus aequoreus
+Skate 4-130 Aleutian Skate Bathyraja aleutica 
+Skate 242-28 Sandpaper Skate Bathyraja interrupta 
+Skate 66-105 Alaska Skate Bathyraja parmifera 
+Skate 590-249 Spinytail Skate Bathyraja spinicauda 
+Skate 418-81 Roughtail Skate Bathyraja trachura 
+Toadfish 600-209 or Packoo Pacuma Toadfish Batrachoides
+Squid 748-54 or Calamari Magistrate Armhook Squid
+Alfonsino 536-244 Red Bream Beryx decadactylus 
+Alfonsino 164-14 Alfonsin a Casta Beryx splendens
+Hogfish 458-151 Spotfin Hogfish Bodianus pulchellus 
+Hogfish 938-12 Spanish Hogfish Bodianus rufus 
+Parrotfish 244-208 Green Humphead Parrotfish Bolbometopon muricatum
+Bream 58-201 or Bogue Bogue Boops boops
+Cod 152-168 Arctic Cod Boreogadus saida 
+Flounder 678-159 Peacock Flounder Bothus lunatus 
+Flounder 290-169 Tropical Flounder Bothus mancus 
+Flounder 760-249 Eyed Flounder Bothus ocellatus 
+Flounder 160-190 Panther Flounder Bothus pantherinus 
+Bengal 758-247 Loach Bengal Loach Botia dario
+Sole 518-59 Oriental Sole Brachirus orientalis 
+Lau-lau 776-183 Lau-lau Brachyplatystoma filamentosum  
+Piramutaba 682-31 Piramutaba Brachyplatystoma vaillantii  
+Pomfret 570-95 Southern Rays Bream Brama australis
+Pomfret 616-243 Atlantic Pomfret Brama brama 
+Pomfret 652-172 Lowfin Pomfret Brama dussumieri 
+Pomfret 20-171 Pacific Pomfret Brama japonica 
+Menhaden 750-8 Finescale Menhaden Brevoortia gunteri 
+Menhaden 824-211 Gulf Menhaden Brevoortia patronus 
+Menhaden 924-204 Yellowfin Menhaden Brevoortia smithi 
+Menhaden 622-60 Atlantic Menhaden Brevoortia tyrannus 
+Cusk 001-110 Cusk Brosme brosme  
+Brotula 624-39 or Cuskeel Bearded Brotula Brotula
+Brotula 424-232 or Cuskeel Pacific Bearded Brotula
+Whelk 120-18 or Sea Snail Buccinum spp.
+Yellow 366-38 Sole or Sole Solenette Buglossidium
+Whelk 54-206 or Sea Snail Busycon spp.
+Whelk 914-130 Channeled Whelk Busycotypus canaliculatus 
+Whelk 342-46 Pear Whelk Busycotypus spiratus 
+Grenadier 412-218 Banded whiptail Caelorinchus fasciatus 
+Porgy 68-44 Grass Porgy Calamus arctifrons 
+Porgy 498-250 Whitebone Porgy Calamus leucosteus 
+Porgy 698-204 Calamus spp.   
+Cascarudo 706-136 Cascarudo Callichthys callichthys  
+Crab 828-234 Swimming Arched Swimming Crab Callinectes
+Crab 424-87 Swimming Cortez Swimming Crab Callinectes
+Crab 872-227 Blue Blue Crab Callinectes sapidus
+Crab 134-21 Swimming Giant Swimming Crab Callinectes
+Elephant 526-38 Fish Elephant Fish Callorhinchus milii
+Crawfish 700-154 or Crayfish Cambarus spp. 
+Crab 246-127 Yellow Rock Rock Crab Cancer
+Crab 682-208 Jonah Jonah Crab Cancer borealis
+Crab 480-208 Rock Atlantic Rock Crab Cancer
+Crab 846-117 Rock Edible Rock Crab Cancer
+Rock 908-69 Crab Red Rock Crab Cancer
+Triggerfish 46-7 Rough Triggerfish Canthidermis maculata 
+Triggerfish 482-83 Ocean Triggerfish Canthidermis sufflamen 
+Puffer 484-216 (Sharpnosed Puffers) Canthigaster spp. 
+Grouper 964-75 Grouper Caprodon schlegelii  
+Jack 798-118 Yellow Jack Carangoides bartholomaei 
+Jack 128-173 Bar Jack Carangoides ruber 
+Jack 604-188 Green Jack Caranx caballus 
+Jack 928-80 Pacific Crevalle Jack Caranx caninus
+Jack 308-125 or Blue Runner Blue Runner
+Jack 274-193 Crevalle Jack Caranx hippos 
+Jack 26-97 or Trevally Giant Trevally Caranx
+Jack 760-112 Horse-eye Jack Caranx latus 
+Jack 40-185 Black Jack Caranx lugubris 
+Jack 98-132 or Trevally Spotted Jack Caranx
+Trevally 48-55 Bigeye Trevally Caranx sexfasciatus 
+Jack 458-47 Striped Jack Caranx vinctus 
+Carp 864-110 Crucian Carp Carassius carassius 
+Shark 578-99 Blacknose Shark Carcharhinus acronotus 
+Shark 40-165 Silvertip Shark Carcharhinus albimarginatus 
+Shark 42-246 Bignose Shark Carcharhinus altimus 
+Shark 292-176 Gray Reef Shark Carcharhinus amblyrhynchos
+Shark 516-228 Narrowtoothed Shark Carcharhinus brachyurus 
+Shark 936-167 Spinner Shark Carcharhinus brevipinna 
+Shark 310-28 Silky Shark Carcharhinus falciformis 
+Shark 184-6 Finetooth Shark Carcharhinus isodon 
+Shark 404-75 Bull Shark Carcharhinus leucas 
+Shark 814-133 Blacktip Shark Carcharhinus limbatus 
+Shark 314-146 Whitetip Shark Carcharhinus longimanus 
+Shark 442-57 Blacktip Reef Shark Carcharhinus melanopterus
+Shark 464-131 Dusky Shark Carcharhinus obscurus 
+Shark 430-84 Reef Shark Carcharhinus perezii 
+Shark 412-150 Sandbar Shark Carcharhinus plumbeus 
+Shark 60-41 Smalltail Shark Carcharhinus porosus 
+Shark 640-141 Night Shark Carcharhinus signatus 
+Shark 920-255 White Shark Carcharodon carcharias 
+Sucker 102-36 River Carpsucker Carpiodes carpio 
+Sucker 680-130 Quillback Carpiodes cyprinus  
+Sucker 432-232 White Sucker Catostomus commersonii 
+Tilefish 662-25 Pacific Golden-eyed Tilefish Caulolatilus affinis
+Tilefish 500-185 Goldface Tilefish Caulolatilus chrysops 
+Tilefish 580-237 Blueline Tilefish Caulolatilus microps 
+Tilefish 964-91 Ocean Whitefish Caulolatilus princeps 
+Limpet 474-207 Limpet Cellana denticulata  
+Alfonsino 782-158 Alfonsino Centroberyx affinis  
+Alfonsino 236-215 Bight Redfish Centroberyx gerrardi 
+Ruff 003-117 Black Black Ruff Centrolophus niger
+Shark 420-15 Dogfish or Shark Cape Catshark
+Snook 872-24 Armed Snook Centropomus armatus 
+Snook 82-84 Swordspine Snook Centropomus ensiferus 
+Snook 316-206 Black Snook Centropomus nigrescens 
+Snook 418-123 Fat Snook Centropomus parallelus 
+Snook 326-46 Tarpon Snook Centropomus pectinatus 
+Snook 466-6 Yellowfin Snook Centropomus robalito 
+Snook 208-38 Common Snook Centropomus undecimalis 
+Snook 606-236 White Snook Centropomus viridis 
+Sea 464-16 Bass Bank Sea Bass Centropristis
+Sea 830-163 Bass Rock Sea Bass Centropristis
+Sea 940-247 Bass Black Sea Bass Centropristis
+Shark 164-6 Dogfish or Shark Cape Black
+Grouper 490-248 Purplespotted Grouper Cephalopholis argus 
+Hind 502-44 Chocolate Hind Cephalopholis boenak 
+Grouper 600-249 Graysby Cephalopholis cruentata  
+Grouper 254-210 Coney Cephalopholis fulva  
+Grouper 248-212 Coral Hind Cephalopholis miniata 
+Grouper 234-205 Tomato Hind Cephalopholis sonnerati 
+Grouper 294-198 Strawberry Hind Cephalopholis spiloparaea 
+Grouper 608-72 Spotted Grouper Cephalopholis taeniops 
+Grouper 890-44 Chevron Tailed Grouper Cephalopholis urodeta
+Cockle 108-137 Common Cockle Cerastoderma edule 
+Langostino 86-58 or Langostino Lobster Blue Squat
+Anchovy 610-24 Anchoveta Cetengraulis mysticetus  
+Shark 874-119 Basking Shark Cetorhinus maximus 
+Parrotfish 96-104 Bicolor Parrotfish Cetoscarus bicolor 
+Crab 264-233 Golden Golden Deepsea Crab Chaceon
+Crab 122-92 Red Red Deepsea Crab Chaceon
+Sunfish 692-27 Warmouth Chaenobryttus gulosus  
+Spadefish 846-173 Atlantic Spadefish Chaetodipterus faber 
+Spadefish 742-121 Pacific Spadefish Chaetodipterus zonatus 
+Butterflyfish 140-250 Spotfin Butterflyfish Chaetodon ocellatus 
+Butterflyfish 718-215 Banded Butterflyfish Chaetodon striatus 
+Icefish 322-215 Mackerel Icefish Champsocephalus gunnari 
+Channa 880-62 Giant Snakehead Channa micropeltes 
+Channa 92-121 or Snakehead Spotted Snakehead Channa
+Snakehead 470-69 or Channa Chevron Snakehead Channa
+Eel 120-52 Moray Broadbanded Moray Channomuraena vittata
+Milkfish 112-235 Milkfish Chanos chanos  
+Flounder 300-23 Pelican Flounder Chascanopsetta crumenalis 
+Wrasse 530-203 Humphead Wrasse Cheilinus undulatus 
+Morwong 754-3 Brownband Morwong Cheilodactylus spectabilis 
+Flyingfish 582-230 Jenkins Flyingfish Cheilopogon atrisignis 
+Flyingfish 924-70 Margined Flyingfish Cheilopogon cyanopterus 
+Flyingfish 730-99 Bandwing Flyingfish Cheilopogon exsiliens 
+Flyingfish 912-30 Spotfin Flyingfish Cheilopogon furcatus 
+Flyingfish 838-69 Blotchwing Flyingfish Cheilopogon heterurus hubbsi
+Flyingfish 350-31 Atlantic Flyingfish Cheilopogon melanurus 
+Flyingfish 82-198 California Flyingfish Cheilopogon pinnatibarbatus 
+Flyingfish 410-87 Spotted Wing Flyingfish Cheilopogon spilonotopterus
+Croaker 8-161 Black Croaker Cheilotrema saturnum 
+Searobin 776-161 Bluefin Searobin Chelidonichthys kumu 
+Searobin 204-147 Tub Gurnard Chelidonichthys lucernus 
+Turtle 684-179 Green Sea Turtle Chelonia mydas
+Puffer 344-35 (Puffers) Chelonodon spp.  
+Turtle 306-108 (Snapping Turtles) Chelydra spp. 
+Crawfish 42-44 or Crayfish Yabbie Cherax destructor
+Crawfish 566-128 or Crayfish Red Claw Crayfish
+Crawfish 464-16 or Crayfish Marron Cherax tenuimanus
+Clam 486-28 Venus California Venus Chione californiensis
+Clam 216-47 Venus Frilled Venus Chione undatella
+Clam 402-41 Venus Smooth Venus Chionista fluctifraga
+Crab 398-154 Snow (*) Triangle Tanner Crab
+Crab 932-5 Snow (*) Southern Tanner Crab
+Crab 816-206 Beni-zuwai (*) Beni-zuwai Crab Chionoecetes
+Crab 838-207 Snow (*) Snow Crab Chionoecetes
+Crab 734-73 Snow (*) Grooved Tanner Crab
+Dorab 418-28 Dorab Wolf-herring Chirocentrus dorab 
+Kelpfish 100-237 Kelpfish Chironemus marmoratus  
+Charal 650-255 Charal Chirostoma jordani  
+Knifefish 592-60 or Featherback Knifefish Chitala chitala
+Featherback 354-219 Giant Featherback Chitala lopis 
+Scallop 866-67 White Scallop Chlamys albida 
+Scallop 984-96 Scallop Chlamys circularis aequisculata 
+Scallop 414-30 Spiny Scallop Chlamys hastata 
+Scallop 168-61 Iceland Scallop Chlamys islandica 
+Scallop 390-63 Queen Scallop Chlamys opercularis 
+Scallop 232-229 Chlamys patagonica   
+Scallop 208-196 Peruvian Calico Scallop Chlamys purpurata
+Scallop 720-202 Reddish Scallop Chlamys rubida 
+Scallop 624-28 Southern Scallop Chlamys vitrea 
+Greeneye 498-151 Chlorophthalmus albatrossis   
+Bumper 540-193 Atlantic Bumper Chloroscombrus chrysurus 
+Bumper 464-33 Pacific Bumper Chloroscombrus orqueta 
+Parrotfish 66-172 Heavybeak Parrotfish Chlorurus gibbus 
+Inaha 862-196 Bagrid Catfish (&dagger;) Chrysichthys nigrodigitatus
+(Bagrid 392-151 Catfishes) (&dagger;) Chrysichthys spp. 
+Peacock 702-109 Bass Peacock Cichlid Cichla ocellaris
+Cichlid 494-148 Cichlid Cichla orinocensis  
+Rockling 846-153 Fivebeard Rockling Ciliata mustela 
+Rockling 930-122 Northern Rockling Ciliata septentrionalis 
+Corvina 34-58 Chilean Croaker Cilus gilberti 
+Carp 384-66 or Mrigal Mrigal Cirrhinus cirrhosis
+Carp 320-45 Small Scaled Mud Carp Cirrhinus
+Carp 730-85 or Mrigala Cirrhinus mrigala 
+Sanddab 540-134 Pacific Sanddab Citharichthys sordidus 
+Clarias 12-70 Fish or Walking Clarias Mudfish
+Walking 68-153 Clarias Fish Walking Catfish (&dagger;)
+Sharptooth 944-251 Clarias Fish Sharptooth Catfish (&dagger;)
+Clarias 246-143 Fish Hybrid Clarias Catfish (&dagger;)
+Broadhead 818-227 Clarias Fish Broadhead Catfish (&dagger;)
+Flounder 954-204 Sohachi Flounder Cleisthenes pinetorum 
+Sole 640-86 or Flounder Roughscale Sole Clidoderma
+Cockle 748-67 California Cockle Clinocardium californiense 
+Cockle 822-59 or Cockle Clam Common Cockle
+Herrring 222-245 Araucanian herring Clupea bentincki 
+Herring 454-133 or Sea Herring or Sild
+Herring 832-254 or Sea Herring or Sild
+Anchovy 942-137 Ramcarat Grenadier Anchovy Coilia ramcarati
+Flounder 968-161 New Zealand Brill Colistium guntheri
+Flounder 920-203 New Zealand Turbot Colistium nudipinnis
+Drum 18-122 Collichthys spp.   
+Saury 242-15 Pacific Saury Cololabis saira 
+Tambaqui 278-153 or Cachama Tambaqui Colossoma macropomum
+Abalone-style 946-97 Shellfish Sea Snail Concholepas concholepas
+Eel 290-28 Conger Longfin Conger Conger cinereus
+Eel 338-243 Conger White Eel Conger cinereus
+Eel 408-79 Conger Sea Eel Conger conger
+Eel 66-36 Conger Conger Eel Conger oceanicus
+Eel 536-94 Conger Conger Eel Conger oligoporus
+Eel 146-102 Conger Manytooth Conger Conger triporiceps
+Racehorse 350-239 Southern Pigfish Congiopodus leucopaecilus 
+Grunt 130-101 Barred Grunt Conodon nobilis 
+Asian 962-203 Clam Asian Clam Corbicula spp.
+Vendace 10-26 Vendace Coregonus albula  
+Cisco 736-248 or Chub Longjaw Cisco Coregonus
+Cisco 404-128 or Tullibee Lake Herring Coregonus
+Whitefish 128-191 Lake Whitefish Coregonus clupeaformis 
+Chub 634-28 Kiyi Coregonus kiyi  
+Whitefish 254-124 Humpback Whitefish Coregonus pidschian 
+Cisco 614-190 or Chub Shortnose Cisco Coregonus
+Cisco 86-41 or Chub Shortjaw Cisco Coregonus
+Sprat 542-162 Ganges River Sprat Corica soborna
+Soldierfish 66-44 or Squirrelfish Spinycheek Soldierfish Corniger
+Croaker 360-233 Blue Croaker Corvula batabana 
+Croaker 58-57 Striped Croaker Corvula sanctaeluciae 
+Mahi-mahi 210-216 Pompano Dolphin Coryphaena equiselis 
+Mahi-mahi 724-81 Dolphinfish Coryphaena hippurus  
+Grenadier 516-15 Rock Grenadier Coryphaenoides rupestris 
+Shrimp 120-91 Common Shrimp Crangon crangon 
+California 746-107 Shrimp or Bay Shrimp or
+Shrimp 662-131 Seven-spine Bay Shrimp Crangon septemspinosa
+Shrimp 380-199 Crangon spp.   
+Oyster 348-5 Portuguese Oyster Crassostrea angulata 
+Oyster 950-23 Chilean Oyster Crassostrea chilensis 
+Oyster 818-213 (*) Pacific Oyster Crassostrea gigas
+Oyster 452-115 (*) Kumamoto Oyster Crassostrea gigas
+Oyster 4-246 New Zealand Rock Oyster Crassostrea
+Oyster 74-207 (*) Eastern Oyster Crassostrea virginica
+Mullet 808-53 Wartynosed Mullet Crenimugil crenilabis 
+Slipperysnail 710-79 Slipperysnail Crepidula fornicate  
+Tang 656-122 Black Surgeonfish Ctenochaetus hawaiiensis 
+Tang 824-52 Ctenochaetus spp.   
+Tang 862-69 or Surgeonfish Goldring Surgeonfish Ctenochaetus
+Carp 344-244 Grass Carp Ctenopharyngodon idella 
+Sea 152-94 Cucumber Cucumaria spp.  
+Bonito 680-248 (*) Leaping Bonito Cybiosarda elegans
+Sucker 444-190 Blue Sucker Cycleptus elongatus 
+Flounder 408-88 Mexican Flounder Cyclopsetta chittendeni 
+Lumpfish 346-122 Lumpfish Cyclopterus lumpus  
+Surfperch 986-18 Shiner Surfperch Cymatogaster aggregata 
+Tonguesole 480-89 Cynoglossus spp.   
+Weakfish 854-216 Gray Seatrout Cynoscion acoupa 
+Corvina 448-109 Queen Corvina Cynoscion albus 
+Weakfish 638-148 Sand Seatrout Cynoscion arenarius 
+Weakfish 204-121 Spotted Seatrout Cynoscion nebulosus 
+Weakfish 880-47 Silver Seatrout Cynoscion nothus 
+Croaker 88-193 or Corvina Gulf Corvina Cynoscion
+Croaker 530-80 or Corvina Shortfin Corvina Cynoscion
+Weakfish 518-207 Weakfish Cynoscion regalis  
+Weakfish 632-0 Striped Weakfish Cynoscion striatus 
+Weakfish 286-139 or Corvina Green Weakfish Cynoscion
+Carp 690-115 Common Carp Cyprinus carpio 
+Flyingfish 42-164 Clearwing Flyingfish Cypselurus comatus 
+Flyingfish 906-34 Shortnosed Flyingfish Cypselurus simus 
+Dory 106-164 Silver Dory Cyttus novaezealandiae 
+Tripletail 402-246 or Tigerfish Finescale Tigerfish Datnioides
+Tripletail 262-139 or Tigerfish Fourband Tripletail Datnioides
+Tripletail 192-37 or Tigerfish Four-banded Tripletail Datnioides
+Scad 776-13 Koheru Decapterus koheru  
+Scad 596-48 Redtailed Mackerel Scad Decapterus kurroides
+Scad 154-219 Mackerel Scad Decapterus macarellus 
+Scad 822-221 Shortfin Scad Decapterus macrosoma 
+Scad 852-183 Whitetipped Mackerel Scad Decapterus maruadsi
+Scad 286-224 Amberstripe Scad Decapterus muroadsi 
+Scad 594-138 Round Scad Decapterus punctatus 
+Scad 614-238 Indian Scad Decapterus russelli 
+Scad 316-43 Mexican Scad Decapterus scombrinus 
+Scad 144-240 Redtail Scad Decapterus tabl 
+Porgy 940-74 Dentex Dentex dentex  
+Porgy 760-160 Dentex Dentex gibbosus  
+Sea 198-155 Bream Golden Tai Dentex tumifrons
+Grouper 100-103 Marbled Grouper Dermatolepis inermis 
+Grunt 528-162 or Sweetlip Diagramma labiosum 
+Grunt 518-101 Blackfin Slatey Diagramma melanacrum 
+Grunt 694-120 or Sweetlips Painted Sweetlips Diagramma
+Mojarra 846-145 Irish Pompano Diapterus auratus 
+Sea 696-52 Bass European Sea Bass Dicentrarchus
+Cockle 960-162 Atlantic Giant Cockle Dinocardium robustum
+Limpet 94-94 Rough Keyhole Limpet Diodora aspera
+Grouper 442-24 Sand Perch Diplectrum formosum 
+Porgy 404-138 Silver Porgy Diplodus argenteus 
+Porgy 32-37 Spotted Pinfish Diplodus holbrookii 
+Porgy 664-168 Puntazzo Diplodus puntazzo  
+Porgy 524-99 (Spottail Porgies) Diplodus spp. 
+Skate 842-37 Barndoor Skate Dipturus laevis 
+Skate 934-82 Spreadfin Skate Dipturus olseni 
+Toothfish 488-220 or Chilean Seabass Patagonian Toothfish
+Toothfish 96-188 or Chilean Seabass Antarctic Toothfish
+Coquina 92-31 Texas Coquina Donax texasianus 
+Coquina 532-102 Variable Coquina Donax variabilis 
+Shad 628-15 Gizzard Gizzard Shad Dorosoma cepedianum
+Shad 28-195 Threadfin Threadfin Shad Dorosoma petenense
+Giant 916-100 Calamari Jumbo Squid Dosidicus gigas
+Remora 676-30 or Sharksucker Whitefin Sharksucker Echeneis
+Eel 668-225 Moray Pebbletooth Moray Echidna peli
+Weever 28-41 Lesser Weever Echiichthys vipera 
+Sea 806-174 Urchin Sea Urchin Echinus esculentus
+Jack 686-183 or Rainbow Runner Rainbow Runner
+Octopus 574-87 Eledone spp.   
+Cod 256-134 Saffron Cod Eleginus gracilis 
+Threadfin 554-65 Fourfinger Threadfin Eleutheronema tetradactylum 
+Ladyfish 210-40 Machete Elops affinis  
+Ladyfish 926-99 Hawaiian Ladyfish Elops hawaiensis 
+Ladyfish 30-188 Ladyfish Elops saurus  
+Surfperch 986-130 Black Surfperch Embiotoca jacksoni 
+Surfperch 754-108 Striped Surfperch Embiotoca lateralis 
+Bonnetmouth 238-222 Bonnetmouth Emmelichthys nitidus  
+Eel 536-56 Moray Fangtooth Moray Enchelycore anatina
+Rockling 212-160 Fourbeard Rockling Enchelyopus cimbrius 
+Anchovy 234-87 Round Headed Anchovy Encrasicholina punctifer
+Anchovy 434-48 Anchovy Encrasicholina purpurea  
+Anchovy 200-186 Southern Anchovy Engraulis australis 
+Anchovy 708-24 European Anchovy Engraulis encrasicolus 
+Anchovy 622-43 Silver Anchovy Engraulis eurystole 
+Anchovy 876-37 Japanese Anchovy Engraulis japonicus 
+Anchovy 566-169 Northern Anchovy Engraulis mordax 
+Anchovy 798-192 Anchoveta Engraulis ringens  
+Clam 126-107 Razor Atlantic Jackknife Ensis directus
+Clam 802-145 Razor Pod Razor Ensis ensis
+Clam 514-91 Razor Razor Shell Clam Ensis
+Clam 200-125 Razor Sword Razor Ensis siliqua
+Sole 896-89 or Flounder Petrale Sole Eopsetta
+Cardinalfish 530-75 or Cardinal Perch Thicktail Cardinalfish
+Cardinalfish 726-135 Epigonus spp.   
+Cardinalfish 328-43 Bigeye Cardinalfish Epigonus telescopus 
+Grouper 140-133 Dot-dash Grouper Epinephalus poecitonotus 
+Hind 672-172 Rock Hind Epinephelus adscensionis 
+Grouper 28-187 White Grouper Epinephelus aeneus 
+Grouper 510-132 Banded Grouper Epinephelus amblycephalus 
+Cabrilla 294-211 Spotted Cabrilla Epinephelus analogus 
+Grouper 244-226 Persian Grouper Epinephelus areolatus 
+Grouper 914-43 Dusty Tail Grouper Epinephelus bleekeri
+Grouper 80-73 Brownspotted Rockcod Epinephelus chlorostigma 
+Grouper 144-7 Orange-spotted Grouper Epinephelus coioides 
+Grouper 414-221 Speckled Blue Grouper Epinephelus cyanopodus
+Grouper 502-214 Spinycheek Grouper Epinephelus diacanthus 
+Hind 2-29 Speckled Hind Epinephelus drummondhayi 
+Grouper 380-241 Blacktip Grouper Epinephelus fasciatus 
+Grouper 884-229 or Hybrid Tiger or Giant
+Grouper 200-39 Mottled Grouper Epinephelus fuscoguttatus 
+Grouper 416-74 or Hind Red Hind Epinephelus
+Grouper 746-19 Bridled Grouper Epinephelus heniochus 
+Grouper 188-67 Starspotted Grouper Epinephelus hexagonatus 
+Grouper 296-93 or Jewfish Goliath Epinephelus itajara
+Grouper 574-193 Giant Grouper Epinephelus lanceolatus 
+Grouper 228-182 Striped Grouper Epinephelus latifasciatus 
+Grouper 212-91 Longspine Grouper Epinephelus longispinis 
+Grouper 414-178 Snubnose Grouper Epinephelus macrospilos 
+Grouper 964-155 Highfin Grouper Epinephelus maculatus 
+Grouper 784-211 Malabar Grouper Epinephelus malabaricus 
+Grouper 324-138 Dusky Grouper Epinephelus marginatus 
+Grouper 120-110 Speckled Dwarf Grouper Epinephelus merra
+Grouper 542-111 Netfin Grouper Epinephelus miliaris 
+Grouper 940-175 Red Grouper Epinephelus morio 
+Grouper 400-56 Comet Grouper Epinephelus morrhua 
+Grouper 206-166 White-blotched Grouper Epinephelus multinotatus 
+Grouper 200-213 Misty Grouper Epinephelus mystacinus 
+Grouper 658-167 Warsaw Grouper Epinephelus nigritus 
+Grouper 430-4 Snowy Grouper Epinephelus niveatus 
+Grouper 868-237 Camouflage Grouper Epinephelus polyphekadion 
+Grouper 346-222 Oblique-banded Grouper Epinephelus radiatus 
+Grouper 264-11 Halfmoon Grouper Epinephelus rivulatus 
+Grouper 616-42 Sixbar Grouper Epinephelus sexfasciatus 
+Grouper 788-98 Nassau Grouper Epinephelus striatus 
+Grouper 536-151 Greasy Rockcod Epinephelus tauvina 
+Grouper 924-253 Wavy Lined Grouper Epinephelus undulosus
+Gemfish 50-91 Domine Epinnula magistralis  
+Hagfish 540-174 Pacific Hagfish Eptatretus stoutii 
+Drum 750-145 Spotted Drum Equetus punctatus 
+Skilfish 390-255 Skilfish Erilepis zonifer  
+Korean 560-177 variety crabmeat or Kegani crabmeat(*)
+Crab 994-36 Mitten Chinese Mitten Crab Eriocheir
+Sardine 942-110 White Sardine Escualosa thoracata 
+Pickerel 760-201 Redfin Pickerel Esox americanus americanus
+Pickerel 372-83 Grass Pickerel Esox americanus vermiculatus
+Pike 92-179 Northern Pike Esox lucius 
+Muskellunge 724-208 Muskellunge Esox masquinongy  
+Pickerel 476-140 Chain Pickerel Esox niger 
+Snapper 12-45 Ruby Snapper Etelis carbunculus 
+Snapper 52-3 Yellowstripe Snapper Etelis coruscans 
+Snapper 190-80 Queen Snapper Etelis oculatus 
+Menhaden 430-72 Peruvian Menhaden Ethmidium maculatum 
+Pearlspot 34-119 Green Chromide Etroplus suratensis 
+Herring 370-182 Round Herring Etrumeus teres 
+Crawfish 104-244 or Crayfish Murray River Crayfish
+Mojarra 244-57 Striped Mojarra Eugerres plumieri 
+Krill 286-171 Euphausia spp.   
+Tuna 820-240 (*) Kawakawa Euthynnus affinis 
+Tuna 610-236 (*) Spotted Tunny Euthynnus alletteratus
+Tuna 468-114 (*) Black Skipjack Euthynnus lineatus
+Bacha 14-6 Bacha Eutropiichthys vacha  
+Scallop 236-251 San Diego Scallop Euvola diegensis
+Scallop 422-1 Zigzag Scallop Euvola ziczac 
+Sea 576-209 Urchin Sea Urchin Evechinus chloroticus
+Flyingfish 236-45 Ocean Two-wing Flyingfish Exocoetus obtusirostris
+Flyingfish 56-172 Tropical Two-wing Flyingfish Exocoetus volitans
+Shrimp 116-211 Roshna Prawn Exopalaemon styliferus 
+Shrimp 946-177 Brown Shrimp Farfantepenaeus aztecus 
+Shrimp 72-32 Pinkspotted Shrimp Farfantepenaeus brasiliensis 
+Shrimp 972-184 or Pink Shrimp Pink Shrimp
+Shrimp 854-165 or Brown Shrimp Southern Brown
+Shrimp 634-222 Chinese White Shrimp Fenneropenaeus chinensis
+Shrimp 232-158 Indian Prawn Fenneropenaeus indicus 
+Shrimp 962-86 Banana Prawn Fenneropenaeus merguiensis 
+Shrimp 220-87 Redtail Prawn Fenneropenaeus penicillatus 
+Limpet 728-241 Purple Keyhole Limpet Fissurella limbata
+Limpet 474-56 Keyhole Limpet Fissurella maxima 
+Reef 476-188 Cornetfish Cornetfish Fistularia commersonii 
+Flyingfish 220-208 Sharpchin Flyingfish Fodiator acutus 
+Killifish 616-58 Marsh Killifish Fundulus confluentus 
+Killifish 156-226 Mummichog Fundulus heteroclitus  
+Killifish 178-87 Striped Killifish Fundulus majalis 
+Pollock 534-82 Walleye Pollock &dagger; Gadus chalcogrammus
+Cod 456-17 or Alaska Cod Pacific Cod
+Cod 340-74 Atlantic Cod Gadus morhua 
+Cod 694-29 Greenland Cod Gadus ogac 
+Shark 624-99 Tiger Shark Galeocerdo cuvier 
+Threadfin 972-67 Guinean Threadfin Galeoides decadactylus 
+Shark 822-47 or School Shark School Shark
+Clam 656-128 Pacific or White Solid Sanguin
+Mackerel 494-145 Butterfly Mackerel Gasterochisma melampus 
+Stargazer 350-232 Spotted Stargazer Genyagnus monopterygius 
+Croaker 992-104 White Croaker Genyonemus lineatus 
+Kingklip 926-231 South African Kingklip Genypterus capensis
+Kingklip 710-83 Red Kingklip Genypterus chilensis 
+Kingklip 964-230 Black Kingklip Genypterus maculatus 
+Kingklip 112-241 Genypterus spp.   
+Crab 918-96 Japanese Japanese Freshwater Crab Geothelphusa
+Catla 122-126 Catla Gibelion catla  
+Opaleye 766-79 Opaleye Girella nigricans  
+Smelt 380-90 Deepsea Smelt Glossanodon semifasciatus 
+Goby 80-249 Tank Goby Glossogobius giuris 
+Bittersweet 614-5 or Dogcockle Decussate Bittersweet Glycymeris
+Bittersweet 788-184 or Dogcockle Bittersweet Glycymeris glycymeris
+Bittersweet 428-173 or Dogcockle Bittersweet Glycymeris laticostata
+Cockle 430-134 Dock Cockle Glycymeris pilosa 
+Bittersweet 824-163 or Dogcockle Glycymeris spp. 
+Cockle 638-233 Violet Bittersweet Glycymeris violacescens 
+Gray 370-33 Sole or Sole or Flounder
+Sole 164-143 or Flounder Rex Sole Glyptocephalus
+Trevally 964-130 Golden Trevally Gnathanodon speciosus 
+Eel 732-143 Conger Hardtail Conger Gnathophis cinctus
+Icefish 830-251 Icefish Gobionotothen marionensis  
+Morwong 90-155 Magpie Morwong Goniistius gibbosus 
+Morwong 226-141 or Moki Red Moki Goniistius
+Mackerel 696-166 Shark Mackerel Grammatorcynus bicarinatus 
+Mackerel 440-68 Double-lined Mackerel Grammatorcynus bilineatus 
+Shad 876-113 Indian River Shad Gudusia chapra
+Sole 496-241 Naked Sole Gymnachirus melas 
+Bream 554-170 or Sea Bream Blue-lined Large-eye
+Bream 202-144 or Sea Bream Gymnocranius spp.
+Bonito 512-22 (*) Dogtooth Tuna Gymnosarda unicolor
+Eel 288-81 Moray Green Moray Gymnothorax funebris
+Eel 902-66 Moray Giant Moray Gymnothorax javanicus
+Eel 608-9 Moray Blacktail Moray Gymnothorax kolpos
+Eel 300-145 Moray Spotjaw Moray Gymnothorax mareei
+Eel 322-240 Moray Goldentail Moray Gymnothorax miliaris
+Eel 890-33 Moray Brown Moray Gymnothorax unicolor
+Grunt 976-150 or Margate Margate Haemulon album
+Grunt 288-139 or Tomtate Tomtate Haemulon aurolineatum
+Grunt 184-114 Black Grunt Haemulon bonariense 
+Grunt 336-253 Caesar Grunt Haemulon carbonarium 
+Grunt 140-139 Smallmouth Grunt Haemulon chrysargyreum 
+Grunt 140-57 French Grunt Haemulon flavolineatum 
+Grunt 174-5 Spanish Grunt Haemulon macrostomum 
+Grunt 114-67 or Cottonwick Cottonwick Haemulon melanurum
+Grunt 214-33 Sailors Choice Haemulon parra 
+Grunt 110-149 White Grunt Haemulon plumierii 
+Grunt 546-222 Bluestriped Grunt Haemulon sciurus 
+Grunt 740-140 Prieta Mojarra Haemulon scudderii 
+Grunt 770-123 Latin Grunt Haemulon steindachneri 
+Grunt 574-57 Striped Grunt Haemulon striatum 
+Abalone 734-124 Threaded Abalone Haliotis assimilis 
+Abalone 306-87 Australian Abalone Haliotis australis 
+Abalone 536-12 Pink Abalone Haliotis corrugata 
+Abalone 466-102 Green Abalone Haliotis fulgens 
+Abalone 324-192 Giant Abalone Haliotis gigantea 
+Abalone 848-77 Blackfoot Abalone Haliotis iris 
+Abalone 156-15 Pinto Abalone Haliotis kamtschatkana 
+Abalone 794-247 Greenlip Abalone Haliotis laevigata 
+Abalone 318-224 Pourtale Abalone Haliotis pourtalesii 
+Abalone 938-106 Roe's Abalone Haliotis roei 
+Abalone 382-247 Blacklip Abalone Haliotis rubra 
+Abalone 474-43 Red Abalone Haliotis rufescens 
+Abalone 978-128 Tube Abalone Haliotis tuberculata 
+Abalone 190-36 Flat Abalone Haliotis walallensis 
+Shrimp 584-155 or Prawn Jack-knife Prawn Haliporoides
+Shrimp 808-118 or Prawn Knife Shrimp Haliporoides
+Sardine 428-140 False Pilchard Harengula clupeola 
+Sardine 20-213 Redear Sardine Harengula humeralis 
+Sardine 240-151 Scaled Sardine Harengula jaguana 
+Herring 80-171 Flatiron Herring Harengula thrissina 
+Bombay 846-7 Duck Bombay Duck Harpadon nehereus
+Chimaera 274-64 Longnosed Chimera Harriotta raleighana 
+Merex 952-162 Merex Haustellum brandaris  
+Murex 668-6 Haustellum spp.   
+Rosefish 834-55 Blackbelly Rosefish Helicolenus dactylopterus 
+Sea 204-70 Urchin Heliocidaris spp.  
+Snail 176-43 or Escargot Escargot Helix pomatia
+Seabass 582-1 Longtail Bass Hemanthias leptus 
+Seabass 942-89 Splittail Bass Hemanthias peruanus 
+Asian 638-97 River Bagrid Fish Hemibagrus spilopterus
+Red 136-75 Mystus Asian Redtail Catfish (&dagger;)
+Halfbeaks 504-192 Halfbeaks Hemiramphus spp.  
+Sculpin 440-155 Atlantic Sea Raven Hemitripterus americanus
+Perch 936-26 Zebra Perch Hermosilla azurea 
+Sampa 500-25 Sampa Heterobranchus longifilis  
+Claresse 624-125 Hybrid Clarias Catfish (&dagger;) Heterobranchus
+Shrimp 78-182 Smooth Nylon Shrimp Heterocarpus laevigatus
+Stinging 850-193 Fish Stinging Catfish (&dagger;) Heteropneustes
+Greenling 374-197 Kelp Greenling Hexagrammos decagrammus 
+Greenling 260-83 Rock Greenling Hexagrammos lagocephalus 
+Greenling 368-2 Masked Greenling Hexagrammos octogrammus 
+Greenling 822-76 Whitespotted Greenling Hexagrammos stelleri 
+Shark 728-40 Sixgill Shark Hexanchus griseus 
+Goldeye 122-181 Goldeye Hiodon alosoides  
+Mooneye 26-231 Mooneye Hiodon tergisus  
+Flounder 108-140 Fourspot Flounder Hippoglossina oblonga 
+Sole 74-73 or Flounder Bigmouth Flounder Hippoglossina
+Sole 616-77 or Flounder Flathead Sole Hippoglossoides
+Plaice 918-120 or Flounder American Plaice Hippoglossoides
+Flounder 616-15 Bering Flounder Hippoglossoides robustus 
+Halibut 36-49 (*) Atlantic Halibut Hippoglossus hippoglossus
+Halibut 962-105 (*) Pacific Halibut Hippoglossus stenolepis
+Flyingfish 614-184 Fourwing Flyingfish Hirundichthys affinis 
+Flyingfish 696-231 Blackwing Flyingfish Hirundichthys rondeletii 
+Flyingfish 40-136 Cuvier's Flyingfish Hirundichthys speculiger 
+Angelfish 132-85 Blue Angelfish Holacanthus bermudensis 
+Angelfish 54-233 Queen Angelfish Holacanthus ciliaris 
+Angelfish 868-82 Rock Beauty Holacanthus tricolor 
+Squirrelfish 50-103 Squirrelfish Holocentrus adscensionis  
+Squirrelfish 986-152 Longspine Squirrelfish Holocentrus rufus 
+Sea 956-100 Cucumber Sea Cucumber Holothuria spp.
+Lobster 976-43 American Lobster Homarus americanus 
+Lobster 920-197 European Lobster Homarus gammarus 
+Tigerfish 698-254 Trahira Hoplias malabaricus  
+Pargo 932-170 Striped Pargo Hoplopagrus guentherii 
+Hassar 594-81 Brown Hoplo Hoplosternum littorale 
+Roughy 530-26 Orange Orange Roughy Hoplostethus atlanticus
+Roughy 82-200 Silver Silver Roughy Hoplostethus mediterraneus
+Eel 210-68 Pike-conger Blacktail Pike-conger Hoplunnis diomediana
+Eel 950-72 Pike-conger Freckled Pike-conger Hoplunnis macrura
+Eel 720-107 Pike-conger Spotted Pike-conger Hoplunnis tenuis
+Salmon 340-98 Danube Danube Salmon Hucho hucho
+Sturgeon 670-233 Beluga Huso huso  
+Sturgeon 588-187 Bester Huso huso (fem) x
+Chimaera 14-111 Dark Ghost Shark Hydrolagus novaezealandiae
+Chimaera 326-5 Ratfishes Hydrolagus spp.  
+Bluenose 656-190 Antarctic Butterfish Hyperoglyphe antarctica 
+Driftfish 884-145 Black Driftfish Hyperoglyphe bythites 
+Driftfish 982-111 Barrelfish Hyperoglyphe perciformis  
+Butterfish 366-202 Black Butterfish Hyperoglyphe pringlei 
+Surfperch 64-9 Walleye Surfperch Hyperprosopon argenteum 
+Smelt 486-120 Surf Smelt Hypomesus pretiosus 
+Smelt 504-249 Delta Smelt Hypomesus transpacificus 
+Carp 498-234 Silver Carp Hypophthalmichthys molitrix 
+Carp 50-168 Bighead Carp Hypophthalmichthys nobilis 
+Highwaterman 216-13 Fish Highwaterman Catfish (&dagger;) Hypophthalmus
+Grouper 916-69 Gulf Coney Hyporthodus acanthistius 
+Grouper 822-75 Yellowedge Grouper Hyporthodus flavolimbatus 
+Grouper 346-29 Star-studded grouper Hyporthodus niphobles 
+Cichlid 462-159 or Moga Moga Hypsophrys nicaraguensis
+Lobster 136-92 Slipper Japanese Fan Lobster Ibacus
+Catfish 680-202 Blue Catfish Ictalurus furcatus 
+Catfish 196-151 Yaqui Catfish Ictalurus pricei 
+Catfish 684-204 Channel Catfish Ictalurus punctatus 
+Catfish 760-82 Ictalurus punctatus x Ictalurus furcatus
+Buffalofish 408-149 Smallmouth Buffalo Ictiobus bubalus 
+Buffalofish 778-161 Bigmouth Buffalo Ictiobus cyprinellus 
+Buffalofish 710-110 Black Buffalo Ictiobus niger 
+Herring 64-241 African Ilisha Ilisha africana 
+Herring 10-86 Pugnose Ilisha Ilisha elongata 
+Herring 636-225 Panamanian Ilisha Ilisha fuerthii 
+Herring 452-164 Bigeye Ilisha Ilisha megaloptera 
+Herring 52-11 Indian Ilisha Ilisha melastoma 
+Herring 624-235 Javan Ilisha Ilisha pristigastroides 
+Squid 780-89 or Calamari Argentine Shortfin Squid
+Squid 106-97 or Calamari Southern Shortfin Squid
+Squid 676-110 or Calamari Northern Shortfin Squid
+Coquina 890-218 False Giant False Coquina Iphigenia
+Croaker 618-23 or Corvina Bigtooth Corvina Isopisthus
+Croaker 858-60 or Corvina Shortfin Weakfish Isopisthus
+Sole 216-100 or Flounder Butter Sole Isopsetta
+Marlin 816-217 Black Marlin Istiompax indica 
+Sailfish 278-222 Sailfish Istiophorus platypterus  
+Shark 224-182 Mako Shortfin Mako Shark Isurus
+Shark 260-0 Mako Longfin Mako Shark Isurus
+Crab 494-83 Spider New Zealand Spider Crab
+Lobster 800-198 Rock Southern Rock Lobster Jasus
+Lobster 962-41 Rock Cape Spiny Lobster Jasus
+Lobster 768-195 Rock St. Paul Spiny Lobster
+Lobster 352-153 Rock Eastern Spiny Lobster Jasus
+Marlin 6-17 White Marlin Kajikia albida 
+Marlin 294-126 Striped Marlin Kajikia audax 
+Stargazer 574-254 Smooth Stargazer Kathetostoma averruncus 
+Stargazer 938-66 Giant Stargazer Kathetostoma giganteum 
+Tuna 366-153 (*) Skipjack Tuna Katsuwonus pelamis
+Gizzard 602-156 or Scad Dotted Gizzard Shad
+Sheatfish 366-103 Long-barbel Sheatfish Kryptopterus limpok 
+Sheatfish 808-157 (Glass Catfishes) (&dagger;) Kryptopterus spp.
+Aholehole 452-28 Spotted Flagtail Kuhlia marginata 
+Aholehole 308-52 Rock Flagtail Kuhlia rupestris 
+Aholehole 134-90 Hawaiian Aholehole Kuhlia sandvicensis 
+Rudderfish 884-165 Rudderfish Kyphosus cinerascens  
+Chub 814-94 Yellow Chub Kyphosus incisor 
+Chub 606-58 Bermuda Chub Kyphosus sectator 
+Drummer 50-254 Lowfinned Drummer Kyphosus vaigiensis 
+Bata 846-105 Bata Labeo bata  
+Calbasu 160-40 Calbasu Labeo calbasu  
+Rohu 286-25 Rohu Labeo rohita  
+Hogfish 652-93 Hogfish Lachnolaimus maximus  
+False 608-45 Trevallies or Milkfishes Lactarius spp.
+Trunkfish 224-211 Smooth Trunkfish Lactophrys triqueter 
+Cod 906-105 Morid Longfin Codling Laemonema longipes
+Puffer 86-255 Smooth Puffer Lagocephalus laevigatus 
+Puffer 262-245 Oceanic Puffer Lagocephalus lagocephalus 
+Puffer 142-124 (Puffers) Lagocephalus spp.  
+Porgy 358-14 Pinfish Lagodon rhomboides  
+Conch 514-183 Spider Conch Lambis lambis 
+Shark 184-166 Salmon Shark Lamna ditropis 
+Shark 598-216 Porbeagle Lamna nasus  
+Opah 986-217 Opah Lampris guttatus  
+Croaker 668-173 Croceine Croaker Larimichthys crocea 
+Croaker 252-130 Redlip Croaker Larimichthys polyactis 
+Drum 624-80 Banded Drum Larimus fasciatus 
+Drum 272-127 Larimus spp.   
+Sea 440-191 Bass Japanese Seaperch Lateolabrax japonicus
+Barramundi 188-239 Giant Perch Lates calcarifer 
+Nile 730-113 Perch or Lake Victoria Perch
+Trumpeter 758-84 Bastard Trumpeter Latridopsis ciliaris 
+Trumpeter 654-196 Striped Trumpeter Latris lineata 
+Slipmouth 190-80 or Ponyfish Greater Ponyfish Leiognathus
+Slipmouths 34-190 or Ponyfish Slipmouths or Ponyfish
+Spot 764-42 Spot Leiostomus xanthurus  
+Barnacle 188-13 Goose Barnacle Lepas spp. 
+Turtle 572-35 (Ridley Sea Turtles) Lepidochelys spp.
+Escolar 520-114 or Oilfish Escolar Lepidocybium flavobrunneum
+Sole 626-113 or Flounder Southern Rock Sole
+Sole 248-61 or Flounder Northern Rock Sole
+Cutlassfish 594-219 Silver Scabbardfish Lepidopus caudatus 
+Pomfret 130-69 (Frostfishes) Lepidopus spp.  
+Flounder 96-242 or Megrim or Whiff Fourspot
+Flounder 976-100 or Megrim or Whiff Megrim
+Grenadier 354-133 Deepsea Whiptail Lepidorhynchus denticulatus 
+Gurnard 162-64 Lepidotrigla spp.   
+Gar 38-15 Longnose Gar Lepisosteus osseus 
+Sunfish 978-167 Redbreast Sunfish Lepomis auritus 
+Sunfish 690-213 Green Sunfish Lepomis cyanellus 
+Sunfish 146-237 Pumpkinseed Lepomis gibbosus  
+Bluegill 258-214 Bluegill Lepomis macrochirus  
+Sunfish 506-101 Redear Sunfish Lepomis microlophus 
+Sunfish 948-83 Spotted Sunfish Lepomis punctatus 
+Cusk-eel 48-7 Blackedge Cusk-eel Lepophidium brevibarbe 
+Cusk-eel 830-196 Mottled Cusk-eel Lepophidium jeannae 
+Cusk-eel 108-168 Fawn Cusk-eel Lepophidium profundorum 
+Boga 184-136 Boga Leporinus obtusidens  
+Threadfin 830-64 Indian Threadfin Leptomelanosoma indicum 
+Cutlassfish 550-45 Smallhead Hairtail Lepturacanthus savala 
+Emperor 554-202 Atlantic Emperor Lethrinus atlanticus 
+Emperor 96-247 Orange-spotted Emperor Lethrinus erythracanthus 
+Emperor 124-177 Thumbprint Emperor Lethrinus harak 
+Emperor 18-11 Redspot Emperor Lethrinus lentjan 
+Emperor 364-51 Sky Emperor Lethrinus mahsena 
+Emperor 846-83 Redspot Emperor Lethrinus microdon 
+Emperor 68-97 Trumpet Emperor Lethrinus miniatus 
+Emperor 622-131 Spangled Emperor Lethrinus nebulosus 
+Emperor 82-186 Lethrinus spp.   
+Emperor 616-254 Slender Emperor Lethrinus variegatus 
+Emperor 904-149 Yellowlip Emperor Lethrinus xanthochilus 
+Skate 764-9 Little Skate Leucoraja erinacea 
+Skate 744-149 Rosette Skate Leucoraja garmani 
+Skate 912-195 Winter Skate Leucoraja ocellata 
+Grunion 480-63 California Grunion Leuresthes tenuis 
+Sole 804-7 or Flounder Yellowfin Sole Limanda
+Flounder 694-72 or Sole Yellowtail Flounder Limanda
+Flounder 658-236 or Dab Common Dab Limanda
+Flounder 86-62 or Dab Longhead Dab Limanda
+Flounder 80-152 or Dab Speckled Flounder Limanda
+Flounder 4-110 Arctic Flounder Liopsetta glacialis 
+Crab 940-61 Golden King (*) Golden King
+Crab 868-65 Centolla Centolla Crab Lithodes antarcticus
+Crab 890-20 Murray or Centolla Murray Crab
+Crab 336-107 Santolla or Nova or Southern
+Shrimp 184-8 Western White Shrimp Litopenaeus occidentalis
+Shrimp 482-35 Southern White Shrimp Litopenaeus schmitti
+Shrimp 558-234 or White Shrimp White Shrimp
+Shrimp 264-31 Blue Shrimp Litopenaeus stylirostris 
+Shrimp 644-221 Whiteleg Shrimp Litopenaeus vannamei 
+Periwinkle 330-148 Common Periwinkle Littorina littorea 
+Mullet 390-195 Largescaled Mullet Liza grandisquamis 
+Tripletail 936-187 West Coast Tripletail Lobotes pacificus
+Tripletail 790-167 Tripletail Lobotes surinamensis  
+Squid 822-194 or Calamari Patagonian Inshore Squid
+Squid 462-219 or Calamari Midsize Squid Loligo
+Squid 36-29 or Calamari Bigeye Squid Loligo
+Squid 878-129 or Calamari California Market Squid
+Squid 592-103 or Calamari Arrow Squid Loligo
+Squid 884-93 or Calamari European Squid Loligo
+Squid 968-70 or Calamari Cape Horn Squid
+Squid 546-227 or Calamari Atlantic Brief Squid
+Squid 610-3 or Calamari Panama Brief Squid
+Monkfish 756-58 Goosefish Lophius americanus  
+Goosefish 568-203 Blackfin Monkfish Lophius gastrophysus 
+Monkfish 656-41 Yellow Goosefish Lophius litulon 
+Monkfish 578-240 Anglerfish Lophius piscatorius  
+Tilefish 778-13 or Golden Tilefish Blue Tilefish
+Burbot 394-59 Burbot Lota lota  
+Cod 668-224 Morid Rock Cod Lotella rhacina
+Limpet 874-162 Owl Limpet Lottia gigantea 
+Sea 42-64 Urchin Loxechinus spp.  
+Crab 342-203 Sheep Sheep Crab Loxorhynchus grandis
+Snapper 508-149 Mutton Snapper Lutjanus analis 
+Schoolmaster 622-52 Schoolmaster Lutjanus apodus  
+Snapper 250-140 Mullet Snapper Lutjanus aratus 
+Snapper 136-203 Mangrove Red Snapper Lutjanus argentimaculatus
+Snapper 228-110 Amarillo Snapper Lutjanus argentiventris 
+Snapper 454-18 Twinspot Snapper Lutjanus bohar 
+Snapper 440-17 Blackfin Snapper Lutjanus buccanella 
+Snapper 712-203 or Red Snapper Red Snapper
+Snapper 876-42 Colorado Snapper Lutjanus colorado 
+Snapper 970-147 Cubera Snapper Lutjanus cyanopterus 
+Snapper 906-147 Crimson Snapper Lutjanus erythropterus 
+Snapper 410-59 Blacktail Snapper Lutjanus fulvus 
+Snapper 608-60 Humpback Snapper Lutjanus gibbus 
+Snapper 552-128 Gray Snapper Lutjanus griseus 
+Snapper 844-160 Rose Snapper Lutjanus guttatus 
+Snapper 832-235 Golden Snapper Lutjanus inermis 
+Snapper 138-140 Dog Snapper Lutjanus jocu 
+Snapper 312-31 John's Snapper Lutjanus johnii 
+Snapper 958-222 Rufous Snapper Lutjanus jordani 
+Snapper 412-186 Bluestriped Snapper Lutjanus kasmira 
+Snapper 306-58 Gold-striped Snapper Lutjanus lutjanus 
+Snapper 756-131 Mahogany Snapper Lutjanus mahogoni 
+Snapper 590-139 Malabar Snapper Lutjanus malabaricus 
+Snapper 488-171 Onespot Snapper Lutjanus monostigma 
+Snapper 756-179 Pacific Dog Snapper Lutjanus novemfasciatus
+Snapper 552-75 Pacific Snapper Lutjanus peru 
+Snapper 910-75 Caribbean Red Snapper Lutjanus purpureus
+Snapper 202-28 Five-lined Snapper Lutjanus quinquelineatus 
+Snapper 474-81 Blubberlip Snapper Lutjanus rivulatus 
+Snapper 124-225 or Scarlet Snapper Bloodred Snapper
+Snapper 970-21 Emperor Snapper Lutjanus sebae 
+Snapper 626-168 Lane Snapper Lutjanus synagris 
+Snapper 48-65 Silk Snapper Lutjanus vivanus 
+Louvar 364-201 Louvar Luvarus imperialis  
+Sole 126-94 Slender Sole Lyopsetta exilis 
+Snapper 146-192 Midnight Snapper Macolor macularis 
+Snapper 574-235 Black and White Snapper Macolor
+Clam 20-214 Bentnose Bentnose Macoma Macoma nasuta
+Shrimp 860-25 Freshwater Cinnamon River Shrimp Macrobrachium
+Shrimp 290-245 Freshwater Bigclaw River Shrimp Macrobrachium
+Shrimp 870-93 Freshwater Ohio Shrimp Macrobrachium ohione
+Shrimp 630-93 Freshwater Giant Freshwater Prawn Macrobrachium
+Clam 754-2 Calico Calico Clam Macrocallista maculata
+Clam 466-211 Venus Sunray Venus Macrocallista nimbosa
+Weakfish 18-176 or Bangamary King Weakfish or
+Grenadier 846-207 Macrourus spp.   
+Grenadier 50-221 or Argentine Straptail or Hualca
+Whiting 664-225 New Zealand or Blue Hake
+Surfclam 722-115 Hen Clam Mactra sachalinensis 
+Surfclam 52-84 Caribbean Winged Surfclam Mactrellona alata
+Surfclam 68-116 Dish Surfclam Mactromeris catilliformis 
+Surfclam 238-188 Hemphill Surfclam Mactromeris hemphillii 
+Surfclam 268-198 Arctic Surfclam Mactromeris polynyma 
+Surfclam 452-214 California Surfclam Mactrotoma californica 
+Surfclam 986-177 Fragile Surfclam Mactrotoma fragilis 
+Surfclam 722-206 Bent Surfclam Mactrotoma nasuta 
+Crab 698-224 Spider European Spider Crab Maja
+Marlin 232-152 Blue Marlin Makaira nigricans 
+Tilefish 484-252 Sand Tilefish Malacanthus plumieri 
+Turtle 410-198 (Diamondback Terrapins) Malaclemys spp. 
+Skate 930-250 Smooth Skate Malacoraja senta 
+Capelin 926-203 Capelin Mallotus villosus  
+Manta 446-226 Atlantic Manta Manta birostris 
+Manta 954-191 Pacific Manta Manta hamiltoni 
+Shrimp 630-86 Kuruma Prawn Marsupenaeus japonicus 
+Halfmoon 14-246 Halfmoon Medialuna californiensis  
+Barnacle 542-148 Pico Megabalanus psittacus  
+Tarpon 182-131 Tarpon Megalops atlanticus  
+Krill 544-62 Krill Meganyctiphanes norvegica  
+Haddock 644-145 Haddock Melanogrammus aeglefinus  
+Shrimp 142-215 or Prawn Caramote Prawn Melicertus
+Shrimp 196-142 Western King Prawn Melicertus latisulcatus
+Shrimp 926-92 Eastern King Prawn Melicertus plebejus
+Triggerfish 300-16 Black Durgon Melichthys niger 
+Moonfish 200-171 Moonfish Mene maculata  
+Silverside 96-45 Atlantic Silverside Menidia menidia 
+Crab 262-7 Stone Gulf Stone Crab Menippe
+Crab 80-67 Stone Florida Stone Crab Menippe
+Kingfish 592-201 Southern Kingfish Menticirrhus americanus 
+Kingfish 508-213 Gulf Kingfish Menticirrhus littoralis 
+Kingfish 642-222 Northern Kingfish Menticirrhus saxatilis 
+Kingfish 334-164 or Corbina California Corbina Menticirrhus
+Clam 260-78 or Quahog Southern Quahog Mercenaria
+Clam 244-115 or Quahog Northern Quahog Mercenaria
+White 418-38 Hard Clam Lyrate Hard Clam
+Hard 238-234 Clam Hard Clam Meretrix spp.
+Whiting 842-43 European Whiting Merlangius merlangus 
+Whiting 80-102 Southern Hake Merluccius australis 
+Whiting 496-222 Silver Hake Merluccius bilinearis 
+Whiting 276-136 or Cape Capensis Cape Hake
+Whiting 764-238 Chilean Hake Merluccius gayi 
+Whiting 808-96 Argentine Hake Merluccius hubbsi 
+Whiting 876-181 European Hake Merluccius merluccius 
+Whiting 778-241 or Hake Deep-water Cape Hake
+Whiting 478-134 North Pacific or Whiting Pacific
+Crab 116-7 Rock Metacarcinus edwardsii  
+Crab 590-172 Dungeness Dungeness Crab Metacarcinus magister
+Lobsterette 448-145 Caribbean Lobsterette Metanephrops binghami 
+Lobsterette 24-46 or Baby Lobster or Scampi
+Lobsterette 54-235 Urugavian Lobster Metanephrops rubellus 
+Lobsterette 790-136 Red-banded Lobster Metanephrops thomsoni 
+Shrimp 338-211 Jinga Shrimp Metapenaeus affinis 
+Shrimp 104-106 Kadal Shrimp Metapenaeus dobsoni 
+Shrimp 342-236 Endeavour Shrimp Metapenaeus endeavouri 
+Triggerfish 646-202 Rough Leatherjacket Meuschenia scaber 
+Sole 968-182 Thickback Sole Microchirus variegatus 
+Tomcod 358-176 Pacific Tomcod Microgadus proximus 
+Tomcod 56-112 Atlantic Tomcod Microgadus tomcod 
+Whiting 382-160 Blue Southern Blue Whiting Micromesistius
+Whiting 930-236 Blue Blue Whiting Micromesistius poutassou
+Corvina 694-206 or Croaker Whitemouth Drummer Micropogonias
+Croaker 370-13 Atlantic Croaker Micropogonias undulatus 
+Bass 86-89 Smallmouth Bass Micropterus dolomieu 
+Bass 828-28 Suwannee Bass Micropterus notius 
+Bass 128-162 Spotted Bass Micropterus punctulatus 
+Bass 466-125 Largemouth Bass Micropterus salmoides 
+Bass 888-102 Guadalupe Bass Micropterus treculii 
+Flounder 28-201 Slime Flounder Microstomus achne 
+Sole 918-62 or Flounder Deepsea Sole Microstomus
+Sole 548-20 Lemon Sole Microstomus kitt 
+Sole 408-223 Dover Sole Microstomus pacificus 
+Croaker 576-115 or Miiuy Miiuy Croaker Miichthys
+Scallop 736-35 Atlantic Scallop Mimachlamys varia 
+Manta 764-183 Devil Ray Mobula hypostoma 
+Manta 790-29 Spinetail Mobula Mobula japanica 
+Manta 196-71 Smoothtail Mobula Mobula thurstoni 
+Mussel 726-194 Bearded Horse Mussel Modiolus barbatus
+Mussel 802-175 Northern Horse Mussel Modiolus modiolus
+Ling 574-35 Blue Ling Molva dypterygia 
+Ling 552-126 Mediterranean Spanish Ling Molva macrophthalma
+Ling 800-85 Ling Molva molva  
+Filefish 870-160 Fringed Filefish Monacanthus ciliatus 
+Top 326-175 Shell Top Shell Monodonta turbinata
+Bream 762-87 Humpnose Big-eye Bream Monotaxis grandoculis
+Cod 652-115 Morid Common Mora Mora moro
+Perch 72-155 White White Perch Morone americana
+Bass 544-170 White Bass Morone chrysops 
+Bass 242-138 or Bass Hybrid White or
+Bass 824-244 Yellow Bass Morone mississippiensis 
+Bass 988-77 Striped Bass Morone saxatilis 
+Bass 760-223 or Bass Hybrid Striped or
+Sucker 900-143 or Redhorse Shorthead Redhorse Sucker
+Mullet 316-242 Striped Mullet Mugil cephalus 
+Mullet 124-73 White Mullet Mugil curema 
+Mullet 464-154 Redeye Mullet Mugil gaimardianus 
+Mullet 34-222 Fantail Mullet Mugil gyrans 
+Mullet 502-121 Hospe Mullet Mugil hospes 
+Mullet 484-138 Parassi Mullet Mugil incilis 
+Mullet 144-190 Liza Mugil liza  
+Mullet 340-157 Agugu Mullet Mugil thoburni 
+Sandperch 998-47 Chilean Sandperch Mugiloides chilensis 
+Sandperch 888-26 Sandperch Mugiloides fasciatus  
+Surfclam 880-64 Mulinia edulis   
+Goatfish 508-89 Mexican Goatfish Mulloidichthys dentatus 
+Goatfish 242-68 Yellow Goatfish Mulloidichthys martinicus 
+Goatfish 490-129 Mulloidichthys spp.   
+Goatfish 90-207 Yellowfiin Goatfish Mulloidichthys vanicolensis 
+Goatfish 530-69 Red Goatfish Mullus auratus 
+Mullet 676-193 Striped Goatfish Mullus barbatus 
+Mullet 166-119 Red Mullet Mullus surmuletus 
+Langostino 934-241 or Langostino Lobster Swarming Squat
+Eel 190-101 Moray Murray Muraena helena 
+Eel 892-40 Moray Honey Comb Moray Muraena
+Eel 620-36 Moray Reticulate Moray Muraena retifera
+Eel 978-135 Moray Stout Moray Muraena robusta
+Eel 394-0 Pike-Conger Daggertooth Pike Conger Muraenesox
+Merex 834-96 Murex spp.   
+Shark 128-29 Dogfish or Shark Cape Dogfish
+Shark 498-150 or Smoothhound Grey Smoothhound Mustelus
+Shark 104-216 Dogfish or Shark Cape Smooth
+Shark 304-167 or Smoothhound Brown Smoothhound Mustelus
+Shark 446-92 Dogfish or Shark Cape Dogfish
+Clam 474-247 Softshell Softshell Clam Mya arenaria
+Grouper 400-162 Black Grouper Mycteroperca bonaci 
+Grouper 774-192 Yellowmouth Grouper Mycteroperca interstitialis 
+Grouper 920-136 Gulf Grouper Mycteroperca jordani 
+Grouper 466-239 or Gag Gag Mycteroperca microlepis
+Grouper 484-237 or Scamp Scamp Mycteroperca phenax
+Grouper 122-111 Comb Grouper Mycteroperca rubra 
+Grouper 884-21 Mycteroperca spp.   
+Grouper 96-238 Tiger Grouper Mycteroperca tigris 
+Grouper 192-89 Yellowfin Grouper Mycteroperca venenosa 
+Grouper 830-26 Broomtail Grouper Mycteroperca xenarcha 
+Pacu 170-208 Pacu Myleus pacu  
+Ray 606-50 Bat Bat Ray Myliobatis californica
+Ray 290-2 Bullnose Bullnose Ray Myliobatis freminvillii
+Ray 608-80 Eagle Southern Eagle Ray Myliobatis
+Sculpin 88-20 Great Sculpin Myoxocephalus polyacanthocephalus 
+Squirrelfish 902-149 Squirrelfish Myripristis amaena  
+Squirrelfish 988-222 Squirrelfish Myripristis berndti  
+Striped 422-216 Dwarf Fish Striped Dwarf Catfish
+Mussel 890-185 California Mussel Mytilus californianus 
+Mussel 336-250 Chilean Mussel Mytilus chilensis 
+Mussel 670-75 Blue Mussel Mytilus edulis 
+Mussel 120-7 Mytilus galloprovicialis x Mytilus edulis
+Mussel 390-122 Mediterranean Mussel Mytilus galloprovincialis 
+Hagfish 8-155 Atlantic Hagfish Myxine glutinosa 
+Leaffish 216-203 Gangetic Leaffish Nandus nandus 
+Ray 450-177 Electric Lesser Electric Ray Narcine
+Unicornfish 660-193 Bluespine Unicornfish Naso unicornis 
+Triggerfish 972-45 Triggerfish Navodon australis  
+Croaker 174-204 Smalleye Croaker Nebris microps 
+Shark 374-88 Lemon Shark Negaprion brevirostris 
+Morwong 804-6 Morwong Nemadactylus bergi  
+Morwong 834-35 Blue Morwong Nemadactylus carponotatus 
+Morwong 6-97 Morwong Nemadactylus douglasii  
+Tarakihi 790-39 or Morwong Tarakihi Nemadactylus macropterus
+Shad 244-184 Gizzard Western Australian Gizzard Shad
+Jack 378-75 or Roosterfish Roosterfish Nematistius pectoralis
+Bream 694-110 Threadfin Fork-tailed Threadfin Bream Nemipterus
+Bream 528-42 Threadfin Japanese Threadfin Bream Nemipterus
+Bream 858-37 Threadfin Mauvelip Threadfin Bream Nemipterus
+Bream 954-3 Threadfin Golden Threadfin Bream Nemipterus
+Oreo 838-50 Dory Oreo Neocyttus spp. 
+Goby 250-32 Round Goby Neogobius melanostomus 
+Crab 910-78 Lithodes Lithodes Crab Neolithodes brodiei
+Batashi 728-251 Neotropius acutirostris   
+Lobster 240-227 Norway Norway Lobster Nephrops norvegicus
+Lobsterette 904-20 Florida Lobsterette Nephropsis aculeata 
+Whelk 120-123 or Sea Snail Neptunea spp.
+Gemfish 280-76 Black Gemfish Nesiarchus nasutus 
+Giant 978-155 Whiskered Fish or Whiskered Fish
+Grenadier 202-239 Marlin-spike Nezumia bairdii  
+Croaker 614-186 Nibea spp.   
+Eel 808-24 Spiny Spiny Eel Notacanthus chemnitzii
+Featherback 540-100 Grey Featherback Notopterus notopterus 
+Shark 976-73 Sevengill Shark Notorynchus cepedianus 
+Squid 878-176 or Calamari Wellington Flying Squid
+Shiner 592-111 (Eastern Shiners) Notropis spp. 
+Snail 170-75 Rocksnail Ocenebra japonica  
+Octopus 210-154 Octopus spp.   
+Octopus 50-232 Common Octopus Octopus vulgaris 
+Snapper 998-7 Yellowtail Snapper Ocyurus chrysurus 
+Butterfish 542-142 Greenbone Odax pullus  
+Silverside 298-65 Argentine Silverside Odontesthes regia 
+Croaker 912-104 Reef Croaker Odontoscion dentex 
+Jack 170-189 Leatherjacket Oligoplites saurus  
+Squid 724-90 or Calamari Flying Squid Ommastrephes
+Pabdah 872-48 Fish Pabdah Catfish (&dagger;) Ompok
+Trout 930-148 Cutthroat Trout Oncorhynchus clarkii 
+Trout 322-217 Gila Trout Oncorhynchus gilae 
+Salmon 494-125 Pink or Humpback (*) Pink
+Salmon 144-207 Chum or Keta (*) Chum
+Salmon 54-34 Coho or Silver or Medium
+Salmon 498-114 Cherry (*) Cherry Salmon Oncorhynchus
+Trout 616-109 Rainbow or Steelhead Rainbow Trout
+Salmon 812-20 Sockeye or Red or Blueback
+Salmon 490-144 Chinook or King or Spring
+Eel 638-153 Snake or Keoghfish Giant Snake
+Lingcod 376-233 Lingcod Ophiodon elongatus  
+Herring 554-255 Thread Deepbody Thread Herring Opisthonema
+Herring 30-220 Thread Atlantic Thread Herring Opisthonema
+Herring 914-197 Tardoore Opisthopterus tardoore  
+Toadfish 110-38 Gulf Toadfish Opsanus beta 
+Toadfish 678-245 Leopard Toadfish Opsanus pardus 
+Toadfish 516-73 Oyster Toadfish Opsanus tau 
+Bonito 842-218 (*) Plain Bonito Orcynopsis unicolor
+Tilapia 562-101 Blue Tilapia Oreochromis aureus 
+Tilapia 888-219 Longfin Tilapia Oreochromis macrochir 
+Tilapia 116-148 Mozambique Tilapia Oreochromis mossambicus 
+Tilapia 474-63 Nile Tilapia Oreochromis niloticus 
+Oreo 970-221 Dory Oreo Oreosoma spp. 
+Grunt 654-81 Pigfish Orthopristis chrysoptera  
+Smelt 134-188 European Smelt Osmerus eperlanus 
+Smelt 422-167 or American Smelt Rainbow Smelt
+Smelt 508-17 Arctic Smelt Osmerus mordax dentex
+Arowana 822-101 or Silver Arowana Arawana Osteoglossum
+Trunkfish 838-4 Trunkfish Ostracion meleagris  
+Oyster 868-8 (*) Olympia Oyster Ostrea conchaphila
+Oyster 744-56 (*) Edible Oyster Ostrea edulis
+Oyster 38-112 (*) Olympia Oyster Ostrea lurida
+Snail 430-248 or Escargot Otala spp. 
+Croaker 10-48 Pama Croaker Otolithoides pama 
+Swimming 610-112 Crab Sand Crab Ovalipes punctatus
+Flyingfish 566-52 Smallwing Flyingfish Oxyporhamphus micropterus 
+Croaker 592-131 Pachypops spp.   
+Croaker 94-85 Pachyurus spp.   
+Crawfish 936-191 or Crayfish Pacifastacus spp. 
+Bream 8-185 Common Pandora Pagellus erythrinus 
+Sea 94-43 Bream Pagellus spp.  
+Porgy 712-39 or Sea Bream Squirefish Pagrus
+Porgy 14-0 or Sea Bream Madai Pagrus
+Porgy 360-51 or Sea Bream Red Porgy
+Shrimp 672-245 Common Prawn Palaemon serratus 
+Shrimp 724-72 Marsh Grass Shrimp Palaemonetes vulgaris
+Lobster 364-56 Spiny Natal Spiny Lobster Palinurus
+Lobster 62-197 Spiny Common Spiny Lobster Palinurus
+Lobster 142-178 Spiny Gilchrist Spiny Lobster Palinurus
+Lobster 178-119 Spiny Pink Spiny Lobster Palinurus
+Butterfish 186-38 Silver Pomfret Pampus argenteus 
+Butterfish 200-138 White Pomfret Pampus cinereus 
+Shrimp 696-180 Sidestriped Shrimp Pandalopsis dispar 
+Shrimp 916-209 or Pink Shrimp Northern Shrimp
+Shrimp 908-253 Humpy Shrimp Pandalus goniurus 
+Shrimp 118-247 Coonstriped Shrimp Pandalus hypsinotus 
+Shrimp 576-14 or Pink Shrimp Ocean Shrimp
+Shrimp 698-164 Spot Shrimp Pandalus platyceros 
+Swai 218-134 or Sutchi or Striped Pangasius
+Basa 292-113 Pangasius bocourti   
+Mekong 844-110 Giant Pangasius Mekong Giant Catfish
+Spot 404-180 Pangasius Spot Pangasius Pangasius larnaudii
+Yellowtail 126-120 Pangasius Yellowtail Catfish (&dagger;) Pangasius
+Giant 50-213 Pangasius Giant Pangasius Pangasius sanitwongsei
+Clam 334-178 Geoduck Panopea abrupta  
+Clam 434-230 Geoduck Atlantic Geoduck Panopea bitruncata
+Clam 32-39 Geoduck Pacific Geoduck Panopea generosa
+Lobster 564-205 Spiny Caribbean Spiny Lobster Panulirus
+Lobster 168-216 Spiny Western Red Lobster Panulirus
+Lobster 80-199 Spiny Green Spiny Lobster Panulirus
+Lobster 392-227 Spiny Scalloped Spiny Lobster Panulirus
+Lobster 592-89 Spiny Blue Spiny Lobster Panulirus
+Lobster 406-29 Spiny California Spiny Lobster Panulirus
+Lobster 800-42 Spiny Japanese Spiny Lobster Panulirus
+Lobster 624-61 Spiny Smoothtail Spiny Lobster Panulirus
+Lobster 506-159 Spiny Hawaiian Spiny Lobster Panulirus
+Lobster 244-54 Spiny Ornate Spiny Lobster Panulirus
+Lobster 86-136 Spiny Pronghorn Spiny Lobster Panulirus
+Lobster 654-131 Spiny Mud Spiny Lobster Panulirus
+Lobster 564-197 Spiny Royal Spiny Lobster Panulirus
+Lobster 914-75 Spiny Painted Spiny Lobster Panulirus
+Clam 648-112 Wedge Pipi Clam Paphies australis
+Clam 934-76 Wedge New Zealand Wedge Clam
+Clam 158-225 Wedge New Zealand Wedge Clam
+Snapper 32-122 Saddleback Snapper Paracaesio kusakarii 
+Snapper 940-63 Yellowtail Blue Snapper Paracaesio xanthura
+Sea 540-73 Urchin Sea Urchin Paracentrotus lividus
+Snakehead 542-172 or Channa Snakehead Parachanna obscura
+Eel 848-57 Conger Margintail Conger Paraconger caudilimbatus
+Sea 944-40 Bass Peruvian Sea Bass Paralabrax
+Sea 132-142 Bass Kelp Bass Paralabrax clathratus
+Sea 592-139 Bass Spotted Sand Bass Paralabrax
+Sea 562-80 Bass Barred Sand Bass Paralabrax
+Flounder 246-178 (*) Cortez Halibut Paralichthys aestuarius
+Flounder 640-80 Gulf Flounder Paralichthys albigutta 
+Flounder 206-187 California Flounder Paralichthys californicus 
+Flounder 58-60 or Fluke Summer Flounder Paralichthys
+Flounder 116-225 or Fluke Southern Flounder Paralichthys
+Flounder 454-118 or Fluke Smalleye Flounder Paralichthys
+Flounder 140-68 Olive Flounder Paralichthys olivaceus 
+Flounder 662-149 Patagonian Flounder Paralichthys patagonicus 
+Flounder 834-134 Broad Flounder Paralichthys squamilentus 
+Crab 190-16 King or Hanasaki (*) Hanasaki
+Crab 542-246 King (*) Red King Crab
+Crab 560-120 King (*) Blue King Crab
+Crab 488-34 Deepsea Deepsea Crab Paralomis granulosa
+Croaker 510-90 Peruvian Croaker Paralonchurus peruanus 
+Croaker 186-150 Paralonchurus spp.   
+Pleco 992-130 or Loach Rubber Pleco Parancistrus
+Crawfish 308-191 or Crayfish (Freshwater Crayfish) Paranephrops
+Cod 894-192 Maori Cod Paranotothenia magellanica 
+Sea 284-208 Bass Pacific Creolefish Paranthias colonus
+Sea 226-73 Bass Atlantic Creolefish Paranthias furcifer
+Shrimp 976-173 Rainbow Shrimp Parapenaeopsis sculptilis 
+Shrimp 752-175 Kiddi Shrimp Parapenaeopsis stylifera 
+Shrimp 668-172 Deep-water Rose Shrimp Parapenaeus longirostris
+Shrimp 926-204 Deep-water Rose Shrimp Parapenaues longirostris
+Sandperch 702-168 Blue Cod Parapercis colias 
+Sandperch 678-34 (Sand-divers) Parapercis spp.  
+Toungesole 316-125 or Sole or Flounder Double-lined
+Sea 84-135 Cucumber Sea Cucumber Parastichopus spp.
+Pomfret 770-159 Black Pomfret Parastromateus niger 
+Roughy 88-225 Pinkfinned Roughy Paratrachichthys trailli 
+Drum 936-207 or Cubbyu Cubbyu Pareques umbrosus
+Flyingfish 560-147 Sailfin Flyingfish Parexocoetus brachypterus 
+Boarfish 522-183 Giant Boarfish Paristiopterus labiosus 
+Sea 204-133 Bass Paristiopterus spp.  
+Argentine 622-49 Queenfish Argentine Queenfish Parona signata
+Sole 512-244 English Sole Parophrys vetulus 
+Goatfish 438-38 Gold Saddle Goatfish Parupeneus cyclostomus
+Goatfish 426-37 Parupeneus spp.   
+Limpet 432-84 Rayed Mediterranean Limpet Patella caerulea
+Scallop 930-180 or Weathervane Weathervane Scallop Patinopecten
+Scallop 354-21 Common Japanese Scallop Patinopecten yessoensis
+Scallop 692-215 Scallop Pecten albicans  
+Scallop 80-23 Great Scallop Pecten jacobaeus 
+Scallop 44-212 Giant Scallop Pecten maximus 
+Scallop 992-255 Australian Scallop Pecten meridionalis 
+Scallop 344-82 New Zealand Commercial Scallop Pecten
+Carp 668-92 Ziege Pelecus cultratus  
+Herring 618-128 Indian Pellona Pellona ditchela 
+Sole 689-110 or Flounder New Zealand Lemon
+Flounder 722-167 New Zealand Common Sole Peltorhamphus
+Shrimp 854-241 Brown Tiger Prawn Penaeus esculentus
+Shrimp 458-229 Giant Tiger Prawn Penaeus monodon
+Shrimp 836-168 Green Tiger Prawn Penaeus semisulcatus
+Shrimp 338-5 Penaeus spp.   
+Croaker 90-75 Donkey Croaker Pennahia anea 
+Croaker 712-170 Silver Croaker Pennahia argentata 
+Bream 810-229 Threadfin Bream Pentapodus caninus 
+Butterfish 730-105 Gulf Butterfish Peprilus burti 
+Butterfish 902-1 Harvestfish Peprilus paru  
+Butterfish 466-158 Pacific Pompano Peprilus simillimus 
+Butterfish 682-203 Butterfish Peprilus triacanthus  
+Perch 880-127 Lake or Yellow Yellow Perch
+Perch 164-53 Eurasian Perch Perca fluviatilis 
+Duckbill 846-62 Brazilian Duckbill Percophis brasiliensis 
+Searobin 308-101 Armored Searobin Peristedion miniatum 
+Mussel 232-100 New Zealand Green Mussel Perna
+Hake 470-38 Longfin Hake Phycis chesteri 
+Flatwhiskered 196-78 Fish Flatwhiskered Catfish (&dagger;) Pinirampus
+Snapper 488-231 Pinjalo Pinjalo pinjalo  
+Scallop 596-21 Sea Scallop Placopecten magellanicus 
+Bonnetmouth 192-71 Bonnetmouth Plagiogenion rubiginosum  
+Croaker 620-126 Plagioscion spp.   
+Croaker 592-16 Silver Croaker Plagioscion squamosissimus 
+Flounder 682-119 or Fluke European Flounder Platichthys
+Flounder 814-125 Starry Flounder Platichthys stellatus 
+Flathead 810-87 or Opal fish Deepwater Flathead
+Flathead 358-120 Longspined Flathead Platycephalus longispinis 
+Coroata 240-201 Coroata Platynematichthys notatus  
+Guitarfish 842-254 Thornback Platyrhinoidis triseriata  
+Smelt 890-122 Ayu Plecoglossus altivelis  
+Grunt 934-9 or Sweetlips Harlequin Sweetlips Plectorhinchus
+Grunt 286-204 or Sweetlips Brown Sweetlips Plectorhinchus
+Grunt 930-94 or Sweetlips Yellowbanded Sweetlips Plectorhinchus
+Grunt 610-160 or Sweetlips Black Sweetlips Plectorhinchus
+Grunt 804-39 or Sweetlips Oriental Sweetlips Plectorhinchus
+Grunt 878-219 or Sweetlips Oriental Sweetlips Plectorhinchus
+Grouper 92-195 Squaretail Coralgrouper Plectropomus areolatus 
+Grouper 858-252 Leopard Coralgrouper Plectropomus leopardus 
+Grouper 568-130 Plectropomus spp.   
+Shrimp 274-244 Argentine Red Shrimp Pleoticus muelleri
+Shrimp 828-186 Royal Royal Red Shrimp Pleoticus
+Shrimp 164-229 Golden Shrimp Plesionika martia 
+Atka 643-117 Mackerel Atka Mackerel Pleurogrammus monopterygius
+Langostino 14-194 or Langostino Lobster Colorado Langostino
+Langostino 60-23 or Langostino Lobster Pelagic Crab
+Plaice 918-172 or Flounder European Plaice Pleuronectes
+Plaice 8-70 or Flounder Alaska Plaice Pleuronectes
+Sole 144-235 or Flounder C-O Sole Pleuronichthys
+Sole 850-96 or Flounder Curlfin Sole Pleuronichthys
+Turbot 838-167 Diamond Turbot Pleuronichthys guttulatus 
+Turbot 404-200 Spotted Turbot Pleuronichthys ritteri 
+Turbot 88-188 Hornyhead Turbot Pleuronichthys verticalis 
+Conch 916-142 Horse Conch Pleuroploca gigantea 
+Roughback 112-234 Whiskered Fish or Whiskered Fish
+Drum 106-58 Black Drum Pogonias cromis 
+Moonsnail 122-216 Northern Moonsnail Polinices heros 
+Moonsnail 586-235 Polinices spp.   
+Pollock 874-30 European Pollock Pollachius pollachius 
+Pollock 686-244 Pollock Pollachius virens  
+Barnacle 302-122 Leaf Barnacle Pollicipes polymerus 
+Threadfin 366-75 Pacific Threadfin Polydactylus approximans 
+Threadfin 670-145 Atlantic Threadfin Polydactylus octonemus 
+Threadfin 166-43 Giant African Threadfin Polydactylus quadrifilis
+Threadfin 372-47 Blackspot Threadfin Polydactylus sextarius 
+Threadfin 24-157 Paradise Threadfin Polynemus paradiseus 
+Paddlefish 496-86 Paddlefish Polyodon spathula  
+Sea 298-114 Bass Wreckfish Polyprion americanus 
+Sea 122-116 Bass Hapuka Polyprion oxygeneios 
+Sea 508-162 Bass Sea Bass Polyprion yanezi
+Angelfish 848-176 Gray Angelfish Pomacanthus arcuatus 
+Angelfish 726-59 French Angelfish Pomacanthus paru 
+Grunt 984-231 Burro Grunt Pomadasys crocro 
+Grunt 158-52 Javelin Grunter Pomadasys kaakan 
+Grunt 936-62 Panamic Grunt Pomadasys panamensis 
+Bluefish 828-149 Bluefish Pomatomus saltatrix  
+Crappie 78-206 White Crappie Pomoxis annularis 
+Crappie 734-102 Black Crappie Pomoxis nigromaculatus 
+Crab 552-113 Swimming Blue Swimming Crab Portunus
+Crab 240-184 Swimming Crab Swimming Portunus pseudoargentatus
+Crab 650-153 Swimming Swimming Crab Portunus puber
+Crab 172-241 Swimming Three Spot Swimming Crab
+Crab 982-121 Swimming Gazami Crab Portunus trituberculatus
+Crab 744-184 Swimming Swimming Crab Portunus tuberculosus
+Bigeye 446-51 Bigeye Priacanthus arenatus  
+Bigeye 146-120 Red Bigeye Priacanthus macracanthus 
+Bigeye 558-15 Purple Spotted Bigeye Priacanthus tayenus
+Shark 326-40 Blue Shark Prionace glauca 
+Searobin 570-232 Northern Searobin Prionotus carolinus 
+Searobin 316-125 Lumpfish Searobin Prionotus stephanophrys 
+Bigeye 760-21 Short Bigeye Pristigenys alta 
+Jobfish 228-43 or Snapper Wenchman Pristipomoides aquilonaris
+Jobfish 694-31 or Snapper Crimson Jobfish Pristipomoides
+Jobfish 484-254 or Snapper Goldeneye Jobfish Pristipomoides
+Jobfish 608-15 or Snapper Cardinal Snapper Pristipomoides
+Jobfish 910-180 or Snapper Goldbanded Jobfish Pristipomoides
+Jobfish 230-82 or Snapper Lavender Jobfish Pristipomoides
+Jobfish 358-53 or Snapper Sharptooth Jobfish Pristipomoides
+Sawfish 286-164 Smalltooth Sawfish Pristis pectinata 
+Sawfish 552-103 Largetooth Sawfish Pristis pristis 
+Crawfish 356-150 or Crayfish White River Crayfish
+Crawfish 236-23 or Crayfish Red Swamp Crayfish
+Curimbata 176-4 Curimbata Prochilodus lineatus  
+Bocachico 792-0 Columbian Bocachico Prochilodus reticulatus 
+Flyingfish 272-82 Bluntnose Flyingfish Prognichthys gibbifrons 
+Tilefish 594-140 Pacific Sandperch Prolatilus jugularis 
+Whitefish 640-95 Round Whitefish Prosopium cylindraceum 
+Croaker 64-27 Blackspotted Croaker Protonibea diacanthus 
+Clam 822-151 Littleneck Pacific Littleneck Clam Protothaca
+Clam 328-77 Littleneck Thin-shell Littleneck Clam Protothaca
+Clam 394-37 Hardshell or Quahog Hardshell Clam
+Shrimp 962-30 Titi Shrimp Protrachypene precipua 
+Paddlefish 324-221 Chinese Paddlefish Psephurus gladius 
+Turbot 978-87 Turbot Psetta maxima  
+Sole 887-43 or Flounder Sand Sole Psettichthys
+Turbot 836-127 Spottail Spiny Turbot Psettodes belcheri
+Turbot 586-112 Spring Turbot Psettodes bennettii 
+Flounder 256-254 (*) Indian Ocean Spiny Halibut
+Potasi 576-213 Indian Potasi Pseudeutropius atherinoides 
+Jack 666-095 or Trevally White Trevally Pseudocaranx
+Sea 352-191 Urchin Pseudocentrotus spp.  
+Oreo 701-43 Dory Smooth Oreo Dory Pseudocyttus
+Shortbarbel 180-218 Pangasius Shortbarbel Pangasius Pseudolais micronemus
+Armorhead 946-96 Longfin Armorhead Pseudopentaceros richardsoni 
+Armorhead 844-201 Longfin Armorhead Pseudopentaceros wheeleri 
+Sand 474-15 Perch Namorado Sandperch Pseudopercis numida
+Sandperch 538-36 Argentinian Sandperch Pseudopercis semifasciata 
+Cod 78-215 Morid Red Cod Pseudophycis bachus
+Cod 142-26 Morid Rock Cod Pseudophycis barbata
+Cod 192-18 Morid Northern Bastard Codling Pseudophycis
+Sorubi 944-232 Spotted Sorubim Pseudoplatystoma corruscans 
+Sorubim 990-76 or Pintado Barred Sorubim Pseudoplatystoma
+Caparari 466-7 Tiger Sorubim Pseudoplatystoma tigrinum 
+Flounder 532-10 or Sole Blackback Pseudopleuronectes americanus
+Flounder 312-143 Largetoothed Flounder Pseudorhombus arsius 
+Flounder 558-158 Smalltoothed Flounder Pseudorhombus jenynsii 
+Flounder 22-94 Fivespot Flounder Pseudorhombus pentophthalmus 
+Sturgeon 500-216 Syr Darya Sturgeon Pseudoscaphirhynchus fedtschenkoi
+Sturgeon 68-230 Dwarf Sturgeon Pseudoscaphirhynchus hermanni 
+Sturgeon 274-36 Amu Darya Sturgeon Pseudoscaphirhynchus kaufmanni
+Croaker 356-50 Giant Captainfish Pseudotolithus elongatus 
+Croaker 656-84 Captainfish Pseudotolithus senegalensis  
+Croaker 310-248 Flathead Captainfish Pseudotolithus typus 
+Goatfish 468-138 Bigscale Goatfish Pseudupeneus grandisquamis 
+Goatfish 218-169 Spotted Goatfish Pseudupeneus maculatus 
+Goatfish 960-141 Pseudupeneus spp.   
+Fanfish 488-7 Pacific Fanfish Pteraclis aesticola 
+Fusilier 830-122 Goldband Fusilier Pterocaesio chrysozona 
+Porgy 666-92 Panga Pterogymnus laniarius  
+Lionfish 144-219 Red Lionfish Pterois volitans 
+Croaker 34-65 Pterotolithus spp.   
+Searobin 958-41 Spotted Gurnard Pterygotrigla picta 
+Punti 354-233 Chola Barb Puntius chola 
+Barb 832-222 Olive Barb Puntius sarana 
+Catfish 436-93 Flathead Catfish Pylodictis olivaris 
+Cobia 270-114 Cobia Rachycentron canadum  
+Skate 922-19 Big Skate Raja binoculata 
+Skate 712-140 Clearnose Skate Raja eglanteria 
+Skate 248-59 California Skate Raja inornata 
+Skate 732-132 Longnose Skate Raja rhina 
+Skate 574-213 (Ocellate Skates) Raja spp. 
+Skate 286-182 Starry Skate Raja stellulata 
+Skate 268-87 Roundel Skate Raja texana 
+Frog 726-172 (True Frogs) Rana spp. 
+Surfclam 900-179 Freshwater Clam Rangia cuneata 
+Whelk 516-88 Veined Rapa Whelk Rapana venosa
+Mackerel 166-191 Indian Mackerel Rastrelliger kanagurta 
+Greenland 996-166 Turbot (*) Greenland Turbot Reinhardtius
+Smelt 410-78 Cucumberfish Retropinna retropinna  
+Gemfish 584-51 or Barracouta Silver Gemfish Rexea
+Surfperch 314-247 Rubberlip Seaperch Rhacochilus toxotes 
+Perch 788-197 Pile Pile Perch Rhacochilus vacca
+Triggerfish 954-159 Striped Triggerfish Rhinecanthus aculeatus 
+Dace 312-58 (Mongrel Daces) Rhinichthys spp. 
+Guitarfish 582-20 Atlantic Guitarfish Rhinobatos lentiginosus 
+Guitarfish 928-242 Shovelnose Guitarfish Rhinobatos productus 
+Ray 782-185 Cownose Cownose Ray Rhinoptera bonasus
+Snapper 960-133 Vermilion Snapper Rhomboplites aurorubens 
+Flounder 984-20 Yellowbelly Flounder Rhombosolea leporina 
+Flounder 958-14 Sand Flounder Rhombosolea plebeia 
+Flounder 432-217 Black Flounder Rhombosolea retiaria 
+Flounder 676-13 Greenback Flounder Rhombosolea tapirina 
+Jellyfish 460-192 Rhopilema spp.   
+Eel 374-23 Conger Yellow Conger Rhynchoconger flavus
+Eel 112-243 Conger Whiptail Conger Rhynchoconger gracilior
+Rita 984-113 Rita Rita rita  
+Croaker 172-164 Spotfin Croaker Roncador stearnsii 
+Squid 356-161 or Calamari Stout Bobtail Squid
+Roach 670-126 Fish Roach Rutilus rutilus 
+Oilfish 930-130 Oilfish Ruvettus pretiosus  
+Oyster 354-144 Sydney Rock Oyster Saccostrea cuccullata
+Icefish 122-25 Japanese Icefish Salangichthys microdon 
+Cod 626-115 Morid Tadpole Mora Salilota australis
+Salmon 694-223 Atlantic Atlantic Salmon Salmo salar
+Trout 376-200 Brown Trout Salmo trutta 
+Carp 867-105 or Minnow Large Razorbelly Minnow
+Char 869-112 Arctic Char Salvelinus alpinus 
+Trout 668-164 Brook Trout Salvelinus fontinalis 
+Trout 780-151 Dolly Varden Salvelinus malma 
+Trout 4-86 Lake Trout Salvelinus namaycush 
+Flounder 832-14 Threespot Righteye Flounder Samariscus triocellatus
+Sauger 312-223 Sauger Sander canadensis  
+Zander 584-162 or Pikeperch Zander Sander lucioperca
+Walleye 184-173 Walleye Sander vitreus  
+Pikeperch 434-131 Volga Pikeperch Sander volgensis 
+Clam 430-92 Sanguin Atlantic Sanguin Sanguinolaria sanguinolenta
+Bonito 186-199 (*) Australian Bonito Sarda australis
+Bonito 152-142 (*) Pacific Bonito Sarda chiliensis
+Bonito 910-198 (*) Striped Bonito Sarda orientalis
+Bonito 810-38 (*) Atlantic Bonito Sarda sarda
+Pilchard 808-225 or Sardine European Pilchard Sardina
+Sardine 26-38 Perforated-scale Sardine Sardinella albella 
+Sardine 878-0 Spanish Sardine Sardinella aurita 
+Sardine 268-185 Fringescale Sardinella Sardinella fimbriata 
+Sardine 662-134 Orangespot Sardine Sardinella janeiro 
+Sardine 320-191 Oil Sardine Sardinella longiceps 
+Sardine 230-166 Japanese Scaled Sardine Sardinella zunasi
+Pilchard 878-101 or Sardine Japanese Pilchard Sardinops
+Pilchard 788-19 or Sardine Australian Pilchard Sardinops
+Pilchard 926-56 or Sardine South African Pilchard
+Pilchard 564-246 or Sardine Pacific Sardine Sardinops
+Squirrelfish 578-157 Speckled Squirrelfish Sargocentron punctatissimum 
+Squirrelfish 998-35 Scarlet Squirrelfish Sargocentron spiniferum 
+Tilapia 54-221 Mango Tilapia Sarotherodon galilaeus galilaeus
+Tilapia 704-187 Blackchin Tilapia Sarotherodon melanotheron 
+Lizardfish 266-167 Slender Lizardfish Saurida elongata 
+Lizardfish 432-46 Filamentous Saury Saurida filamentosa 
+Clam 226-50 Butter Butter Clam Saxidomus gigantea
+Clam 782-223 Butter Washington Clam Saxidomus nuttalli
+Sturgeon 548-148 Pallid Sturgeon Scaphirhynchus albus 
+Sturgeon 448-112 Shovelnose Sturgeon Scaphirhynchus platorynchus 
+Carp 917-113 Rudd Scardinius erythrophthalmus  
+Parrotfish 200-92 Midnight Parrotfish Scarus coelestinus 
+Parrotfish 662-215 Blue Parrotfish Scarus coeruleus 
+Parrotfish 402-35 Blue-barred Parrotfish Scarus ghobban 
+Parrotfish 776-27 Princess Parrotfish Scarus taeniopterus 
+Whiskerfish 130-198 Couma Sea Catfish (&dagger;) Sciades
+Whiskerfish 900-140 or Cuirass Pemecou Sea Catfish
+Gilleybaka 620-245 or Whiskerfish Gillbacker Sea Catfish
+Crucifix 798-185 Whiskered Fish Crucifix Sea Catfish
+Drum 160-129 or Redfish Red Drum Sciaenops
+Arowana 940-93 Super Red Arowana Scleropages legendrei
+Mackerel 84-100 Chub Spotted Chub Mackerel Scomber
+Mackerel 308-35 Chub Atlantic Chub Mackerel Scomber
+Mackerel 14-208 Chub Pacific Chub Mackerel Scomber
+Mackerel 618-51 Atlantic Mackerel Scomber scombrus 
+Saury 816-29 Atlantic Saury Scomberesox saurus 
+Mackerel 310-173 King or Spanish King Mackerel
+King 758-49 Mackerel or Spanish Mackerel Narrow-barred
+Mackerel 836-212 Spanish Gulf Sierra Scomberomorus concolor
+Spanish 352-57 Mackerel Spotted Seerfish Scomberomorus guttatus
+Mackerel 910-211 Spanish Atlantic Spanish Mackerel Scomberomorus
+Mackerel 262-139 Spanish Japanese Seer Scomberomorus niphonius
+Mackerel 986-147 Spanish Cero Scomberomorus regalis 
+Mackerel 780-169 Spanish Pacific Sierra Scomberomorus sierra
+Mackerel 836-107 Spanish Spanish Mackerel Scomberomorus tritor
+Flounder 150-88 Windowpane Scophthalmus aquosus  
+Turbot 806-179 Turbot Scophthalmus maximus  
+Flounder 940-38 Brill Scophthalmus rhombus  
+Rockfish 744-243 Red Rockfish Scorpaena cardinalis 
+Scorpionfish 650-139 Hunchback Scorpionfish Scorpaena dispar 
+Scorpionfish 652-4 Plumed Scorpionfish Scorpaena grandicornis 
+Scorpionfish 770-105 California Scorpinfish Scorpaena guttata 
+Rockfish 714-65 Rockfish Scorpaena papillosa  
+Scorpionfish 892-143 Orange Scorpionfish Scorpaena scrofa 
+Sculpin 558-184 Cabezon Scorpaenichthys marmoratus  
+Tigerperch 368-255 or Grunter Barcoo Grunter Scortum
+Shark 482-28 Dogfish or Shark Cape Lesser
+Shark 386-132 Dogfish or Shark Cape Large
+Crab 516-155 Swimming or Mud Crab or
+Lobster 910-65 Slipper Spanish Slipper Lobster Scyllarides
+Lobster 490-70 Slipper Brazilian Slipper Lobster Scyllarides
+Lobster 990-225 Slipper Ridged Slipper Lobster Scyllarides
+Lobster 946-224 Slipper Scyllarides spp.  
+Rockfish 316-134 Rougheye Rockfish Sebastes aleutianus 
+Perch 336-3 Ocean or Rockfish Pacific Ocean
+Rockfish 44-22 Kelp Rockfish Sebastes atrovirens 
+Rockfish 200-173 Brown Rockfish Sebastes auriculatus 
+Rockfish 718-193 Aurora Rockfish Sebastes aurora 
+Rockfish 610-196 Redbanded Rockfish Sebastes babcocki 
+Rockfish 202-33 Shortraker Rockfish Sebastes borealis 
+Rockfish 276-112 Silvergray Rockfish Sebastes brevispinis 
+Scorpionfish 806-228 False Jacopever Sebastes capensis 
+Rockfish 284-135 Gopher Rockfish Sebastes carnatus 
+Rockfish 92-145 Copper Rockfish Sebastes caurinus 
+Rockfish 900-153 Greenspotted Rockfish Sebastes chlorostictus 
+Rockfish 626-121 Black & Yellow Rockfish Sebastes
+Rockfish 184-39 Dusky Rockfish Sebastes ciliatus 
+Rockfish 824-167 Starry Rockfish Sebastes constellatus 
+Rockfish 184-54 Darkblotched Rockfish Sebastes crameri 
+Rockfish 670-139 Calico Rockfish Sebastes dallii 
+Rockfish 148-235 Splitnose Rockfish Sebastes diploproa 
+Rockfish 646-255 Greenstriped Rockfish Sebastes elongatus 
+Rockfish 528-185 Puget Sound Rockfish Sebastes emphaeus
+Rockfish 472-74 Swordspine Rockfish Sebastes ensifer 
+Rockfish 378-15 Widow Rockfish Sebastes entomelas 
+Rockfish 182-227 Pink Rockfish Sebastes eos 
+Perch 726-132 Ocean Acadian Redfish Sebastes fasciatus
+Rockfish 840-34 Yellowtail Rockfish Sebastes flavidus 
+Rockfish 740-40 Bronzespotted Rockfish Sebastes gilli 
+Rockfish 724-28 Chilipepper (Fish) Sebastes goodei 
+Rockfish 202-42 Rosethorn Rockfish Sebastes helvomaculatus 
+Rockfish 866-83 Squarespot Rockfish Sebastes hopkinsi 
+Rockfish 586-88 Shortbelly Rockfish Sebastes jordani 
+Rockfish 616-218 Freckled Rockfish Sebastes lentiginosus 
+Rockfish 392-196 Cowcod Sebastes levis  
+Rockfish 60-20 Mexican Rockfish Sebastes macdonaldi 
+Rockfish 484-252 Quillback Rockfish Sebastes maliger 
+Rockfish 412-253 Black Rockfish Sebastes melanops 
+Rockfish 626-5 Semaphore Rockfish Sebastes melanosema 
+Rockfish 418-251 Blackgill Rockfish Sebastes melanostomus 
+Perch 880-229 Ocean Deepwater Redfish Sebastes mentella
+Rockfish 12-27 Vermilion Rockfish Sebastes miniatus 
+Rockfish 250-52 Blue Rockfish Sebastes mystinus 
+Rockfish 174-203 China Rockfish Sebastes nebulosus 
+Rockfish 714-237 Tiger Rockfish Sebastes nigrocinctus 
+Perch 650-30 Ocean Golden Redfish Sebastes norvegicus
+Rockfish 792-12 Speckled Rockfish Sebastes ovalis 
+Rockfish 732-241 Bocaccio Sebastes paucispinis  
+Rockfish 816-34 Chameleon Rockfish Sebastes phillipsi 
+Rockfish 338-132 Canary Rockfish Sebastes pinniger 
+Rockfish 340-140 Northern Rockfish Sebastes polyspinis 
+Rockfish 302-235 Redstripe Rockfish Sebastes proriger 
+Rockfish 982-108 Grass Rockfish Sebastes rastrelliger 
+Rockfish 760-5 Yellowmouth Rockfish Sebastes reedi 
+Rockfish 780-253 Rosy Rockfish Sebastes rosaceus 
+Rockfish 824-97 Greenblotched Rockfish Sebastes rosenblatti 
+Rockfish 166-173 Yelloweye Rockfish Sebastes ruberrimus 
+Rockfish 724-235 Flag Rockfish Sebastes rubrivinctus 
+Rockfish 346-38 Dwarf-red Rockfish Sebastes rufinanus 
+Rockfish 90-135 Bank Rockfish Sebastes rufus 
+Rockfish 478-50 Stripetail Rockfish Sebastes saxicola 
+Rockfish 744-143 Halfbanded Rockfish Sebastes semicinctus 
+Rockfish 972-77 Olive Rockfish Sebastes serranoides 
+Rockfish 870-208 Treefish Sebastes serriceps  
+Rockfish 222-107 Pinkrose Rockfish Sebastes simulator 
+Rockfish 752-125 Honeycomb Rockfish Sebastes umbrosus 
+Rockfish 372-9 Harlequin Rockfish Sebastes variegatus 
+Perch 904-131 Ocean Norway Redfish Sebastes viviparus
+Rockfish 986-182 Pygmy Rockfish Sebastes wilsoni 
+Rockfish 80-184 Sharpchin Rockfish Sebastes zacentrus 
+Thornyhead 518-41 Shortspine Thornyhead Sebastolobus alascanus 
+Thornyhead 506-171 Longspine Thornyhead Sebastolobus altivelis 
+Scad 967-110 Bigeye Scad Selar crumenophthalmus 
+Jack 478-82 or Trevally Yellowstripe Scad Selaroides
+Jack 951-101 Pacific Moonfish Selene peruviana 
+Jack 947-98 Atlantic Moonfish Selene setapinnis 
+Jack 933-95 Lookdown Selene vomer  
+Sheephead 772-180 California Sheephead Semicossyphus pulcher 
+Chub 987-107 Creek Chub Semotilus atromaculatus 
+Cuttlefish 186-125 Cuttlefish Sepia esculenta  
+Cuttlefish 854-8 (Common Cuttlefish) Sepia spp. 
+Squid 480-50 or Calamari Dwarf Bobtail Squid
+Squid 534-5 or Calamari Southern Reef Squid
+Squid 480-118 or Calamari Bigfin Reef Squid
+Squid 876-219 or Calamari Caribbean Reef Squid
+Shrimp 50-155 Sakura Shrimp Sergia lucens 
+Amberjack 264-106 Greater Amberjack Seriola dumerili 
+Amberjack 558-174 Lesser Amberjack Seriola fasciata 
+Amberjack 4-12 or Yellowtail Yellowtail Seriola lalandi
+Amberjack 78-31 Buri Seriola quinqueradiata  
+Amberjack 464-95 Almaco Jack Seriola rivoliana 
+Amberjack 338-180 Banded Rudderfish Seriola zonata 
+Warehou 542-101 Blue Warehou Seriolella brama 
+Warehou 38-70 White Warehou Seriolella caerulea 
+Warehou 544-232 Silver Warehou Seriolella punctata 
+Drum 698-140 or Queenfish Queenfish Seriphus politus
+Leathered 648-188 Perch Painted Comber Serranus scriba
+Cockle 62-37 or Cockle Clam Greenland Cockle
+Shrimp 846-238 Rock Brown Rock Shrimp Sicyonia
+Spinefoot 532-232 Pearly Spinefoot Siganus canaliculatus 
+Spinefoot 476-133 or Streaked Spinefoot Bluespotted Spinefish
+Spinefoot 504-199 (Rabbitfishes) Siganus spp.  
+Spinefoot 838-195 Foxface Siganus vulpinus  
+Clam 346-21 Razor Alaska Razor Siliqua alta
+Clam 864-139 Razor Atlantic Razor Siliqua costata
+Clam 238-229 Razor Northern Razor Siliqua patula
+Spotted 498-108 Sillago Spotted Whiting Sillaginodes punctatus
+Whiting 622-120 or Sillago Flat Head Sillago
+Whiting 412-120 Silver Sillago Sillago sihama 
+Sheatfish 980-177 Wels Catfish (&dagger;) Silurus glanis
+Surfclam 176-187 Hatchet Surfclam Simomactra dolabriformis 
+Surfclam 706-138 Hooked Surfclam Simomactra falcata 
+Surfclam 850-64 Flat Surfclam Simomactra planulata 
+Sole 110-77 Senegalese Sole Solea senegalensis 
+Common 896-106 Sole or Sole European Dover
+Clam 98-101 Razor Grand Razor Shell Solen
+Clam 888-20 Razor or Grooved Razor Grooved
+Clam 526-204 Razor Rosy Jackknife Solen rostriformis
+Clam 554-215 Razor Green Jackknife Solen viridis
+Loach 468-84 Gongota Loach Somileptus gongota 
+Parrotfish 136-253 Redtail Parrotfish Sparisoma chrysopterum 
+Parrotfish 132-53 Stoplight Parrotfish Sparisoma viride 
+Bream 416-28 Gilthead Bream Sparus aurata 
+Long 414-186 Whiskered Fish Long Whiskered Catfish
+Baga 528-210 Ayre Giant River Catfish (&dagger;)
+Puffer 614-103 Bullseye Puffer Sphoeroides annulatus 
+Puffer 866-226 Marbled Puffer Sphoeroides dorsalis 
+Puffer 502-252 Longnose Puffer Sphoeroides lobatus 
+Puffer 796-40 Northern Puffer Sphoeroides maculatus 
+Puffer 832-53 Southern Puffer Sphoeroides nephelus 
+Puffer 150-83 Blunthead Puffer Sphoeroides pachygaster 
+Puffer 772-173 Least Puffer Sphoeroides parvus 
+Puffer 0-206 Bandtail Puffer Sphoeroides spengleri 
+Puffer 718-215 (Common Puffers) Sphoeroides spp. 
+Puffer 996-109 Checkered Puffer Sphoeroides testudineus 
+Barracuda 902-203 Pacific Barracuda Sphyraena argentea 
+Barracuda 546-143 Great Barracuda Sphyraena barracuda 
+Barracuda 144-52 Northern Sennet Sphyraena borealis 
+Barracuda 356-18 Vicuda Sphyraena ensis  
+Barracuda 356-211 Guaguanche Sphyraena guachancho  
+Barracuda 666-197 Pickhandle Barracuda Sphyraena jello 
+Shark 854-180 or Hammerhead Scalloped Hammerhead Sphyrna
+Shark 162-243 or Hammerhead Great Hammerhead Sphyrna
+Shark 198-73 or Bonnethead Bonnethead Sphyrna tiburo
+Shark 138-7 or Hammerhead Smalleye Hammerhead Sphyrna
+Shark 12-127 or Hammerhead Smooth Hammerhead Sphyrna
+Picarel 124-4 Blotched Picarel Spicara maena 
+Smelt 636-26 Night Smelt Spirinchus starksi 
+Smelt 158-28 Longfin Smelt Spirinchus thaleichthys 
+Surfclam 410-197 Atlantic Surfclam Spisula solidissima 
+Oyster 236-183 Spondylus spp.   
+Sprat 788-201 Sprat Sprattus spp.  
+Sprat 630-0 European Sprat Sprattus sprattus 
+Shark 870-175 Dogfish or Shark Cape Spiny
+Shark 992-184 Dogfish or Shark Cape Northern
+Dogfish 928-8 Shark or Cape Shark North
+Shark 464-46 Angel Pacific Angel Shark Squatina
+Shark 590-159 Angel Atlantic Angel Shark Squatina
+Drum 386-156 Star Drum Stellifer lanceolatus 
+Drum 530-171 Stellifer spp.   
+Trout 316-226 Inconnu Stenodus leucichthys  
+Porgy 310-44 Longspine Porgy Stenotomus caprinus 
+Porgy 630-94 or Scup Scup Stenotomus chrysops
+Bass 138-118 Giant Sea Bass Stereolepis gigas
+Squid 304-119 or Calamari Purpleback Flying Squid
+Sea 890-167 Cucumber Stichopus spp.  
+Anchovy 560-173 Anchovy Stolephorus spp.  
+Conch 808-111 Florida Fighting Conch Strombus alatus
+Conch 876-162 Milk Conch Strombus costatus 
+Conch 52-180 Queen Conch Strombus gigas 
+Conch 690-111 West Indian Fighting Conch Strombus
+Conch 626-4 Strombus spp.   
+Sea 82-153 Urchin Strongylocentrotus spp.  
+Needlefish 720-167 California Needlefish Strongylura exilis 
+Sea 360-161 Squirt or Tunicata Styela clava
+Sea 22-199 Squirt or Tunicata Styela plicata
+Snapper 430-93 Sailfin Snapper Symphorichthys spilurus 
+Snapper 850-106 Chinamanfish Symphorus nematophorus  
+Bass 854-60 Blackmouth Bass Synagrops bellus 
+Sole 097-113 Narrowbanded Sole Synclidopus macleayanus 
+Pipefish 694-97 Northern Pipefish Syngnathus fuscus 
+Lizardfish 720-133 Inshore Lizardfish Synodus foetens 
+Lizardfish 396-129 Sand Diver Synodus intermedius 
+Lizardfish 94-91 Lizardfish Synodus spp.  
+Clam 600-34 Razor California Tagelus Tagelus californianus
+Clam 738-195 Razor Jackknife Clam Tagelus dombeii
+Clam 104-76 Razor Stout Tagelus Tagelus plebeius
+Puffer 66-109 or Fugu (Puffers) Takifugu spp.
+Clam 476-106 Littleneck Banded Carpet Shell Tapes
+Clam 424-52 Littleneck Littleneck Clam Tapes spp.
+Clam 142-235 Littleneck Shortneck Clam Tapes variegata
+Pomfret 912-170 Pomfret Taractes rubescens  
+Tautog 348-165 Tautog Tautoga onitis  
+Cunner 68-91 Cunner Tautogolabrus adspersus  
+Limpet 486-197 Plant Limpet Tectura testudinalis 
+Shad 944-194 or Hilsa Hilsa Shad Tenualosa
+Therapon 364-98 Largerscaled Grunter Perch Terapon theraps
+Puffer 678-36 (Swellfishes) Tetraodon spp.  
+Spearfish 376-89 Shortbill Spearfish Tetrapturus angustirostris 
+Spearfish 542-224 Longbill Spearfish Tetrapturus pfluegeri 
+Smelt 914-47 Eulachon Thaleichthys pacificus  
+Lobster 336-174 Slipper Flathead Locust Lobster Thenus
+Anchovy 968-219 New Jersey Anchovy Thryssa encrasicholoides
+Tuna 88-208 (*) Albacore Thunnus alalunga 
+Tuna 63-100 (*) Yellowfin Tuna Thunnus albacares
+Tuna 14-98 (*) Blackfin Tuna Thunnus atlanticus
+Tuna 324-104 (*) Southern Bluefin Tuna Thunnus
+Tuna 422-73 (*) Bigeye Tuna Thunnus obesus
+Tuna 97-95 (*) Pacific Bluefin Tuna Thunnus
+Tuna 658-115 (*) Bluefin Tuna Thunnus thynnus
+Tuna 522-37 (*) Longtail Tuna Thunnus tonggol
+Grayling 666-129 Arctic Grayling Thymallus arcticus 
+Gemfish 192-167 or Barracouta Snake Mackerel Thyrsites
+Gemfish 336-112 or Caballa White Snake Mackerel
+Krill 402-16 Krill Thysanoessa inermis  
+Tilapia 330-218 Redbreast Tilapia Tilapia rendalli 
+Tench 622-171 Tench Tinca tinca  
+Oyster 226-139 New Zealand Dredge Oyster Tiostrea
+Clam 780-158 Pismo Pismo Clam Tivela stultorum
+Squid 700-48 or Calamari Angola Flying Squid
+Squid 242-34 or Calamari Japanese Flying Squid
+Squid 368-138 or Calamari European Flying Squid
+Tun 166-212 Giant Tun Tonna galea 
+Ray 796-157 Electric Pacific Electric Ray Torpedo
+Torpedo 730-103 Atlantic Torpedo Torpedo nobiliana 
+Drum 632-73 Totoaba Totoaba macdonaldi  
+Turtle 408-57 (Slider Turtles) Trachemys spp. 
+Pompano 714-128 Snubnose Pompano Trachinotus blochii 
+Pompano 462-142 Florida Pompano Trachinotus carolinus 
+Pompano 868-212 Permit Trachinotus falcatus  
+Pompano 848-58 Palometa Trachinotus goodei  
+Pompano 766-124 or Permit Palometta Permit Trachinotus
+Pompano 526-199 Derbio Trachinotus ovatus  
+Pompano 272-39 Paloma Pompano Trachinotus paitensis 
+Pompano 40-0 or Pompanito Gafftopsail Pompano Trachinotus
+Weever 0-86 Greater Weever Trachinus draco 
+Mackerel 542-199 Jack Greenback Scad Trachurus declivis
+Mackerel 500-174 Jack Japanese Scad Trachurus japonicus
+Mackerel 192-21 Jack Rough Scad Trachurus lathami
+Mackerel 696-2 Jack Inca Scad Trachurus murphyi
+Mackerel 920-139 Jack Yellowtail Horse Mackerel Trachurus
+Scad 786-185 Blue Scad Trachurus picturatus 
+Mackerel 572-128 Jack Jack Mackerel Trachurus symmetricus
+Scad 976-1 European Horse Mackerel Trachurus trachurus
+Grenadier 822-157 Roughnose Grenadier Trachyrincus murrayi 
+Surfclam 334-164 Fat Gaper Tresus capax 
+Surfclam 416-182 Pacific Gaper Tresus nuttallii 
+Shark 128-13 Whitetip Reef Shark Triaenodon obesus
+Shark 614-145 Leopard Shark Triakis semifasciata 
+Cutlassfish 22-252 Atlantic Cutlassfish Trichiurus lepturus 
+Sandfish 488-71 Trichodon spp.   
+Sole 380-109 Scrawled Sole Trinectes inscriptus 
+Sole 790-231 Hogchoker Trinectes maculatus  
+Hatchetfish 934-91 Hatchetfish Triportheus albus  
+Hatchetfish 302-32 Elongate Hatchetfish Triportheus elongatus 
+Sea 338-200 Snail Sea Snail Trophon geversianus
+Top 504-205 Shell Top Shell Turbo cornutus
+Houndfish 248-17 Houndfish Tylosurus crocodilus  
+Drum 396-230 Sand Drum Umbrina coroides 
+Croaker 832-79 Yellowfin Croaker Umbrina roncador 
+Goatfish 414-38 Bluespotted Goatfish Upeneichthys lineatus 
+Goatfish 670-169 Dwarf Goatfish Upeneus parvus 
+Goldeye 684-160 Upeneus spp.   
+Jack 84-1 Whitemouth Jack Uraspis helvola 
+Jack 678-224 Cottonmouth Jack Uraspis secunda 
+Hake 766-103 Brazilian Hake Urophycis brasiliensis 
+Hake 278-53 Red Hake Urophycis chuss 
+Hake 560-218 Gulf Hake Urophycis cirrata 
+Hake 434-245 Carolina Hake Urophycis earllii 
+Hake 608-71 Southern Hake Urophycis floridana 
+Hake 616-150 Spotted Hake Urophycis regia 
+Hake 948-159 White Hake Urophycis tenuis 
+Squid 754-205 or Calamari Mitre Squid Uroteuthis
+Squid 576-246 or Calamari Indian Squid Uroteuthis
+Lyretail 966-180 White-edged Lyretail Variola albimarginata 
+Grouper 366-91 Yellow-edged Lyretail Variola louti 
+Clam 54-215 Littleneck Golden Carpet Shell Venerupis
+Clam 496-62 Littleneck Grooved Carpet Shell Venerupis
+Clam 422-5 Littleneck Japanese Littleneck Clam Venerupis
+Bream 196-121 Mozambique Large-eye Bream Wattsia mossambica
+Swordfish 376-166 Swordfish Xiphias gladius  
+Seabob 378-230 Atlantic Seabob Xiphopenaeus kroyeri 
+Sole 288-86 or Flounder Fantail Sole Xystreurys
+Guitarfish 912-144 Banded Guitarfish Zapteryx exasperata 
+Tang 962-184 Zebrasoma spp.   
+Dory 988-240 Buckler Dory Zenopsis conchifera 
+Dory 492-140 Mirror Dory Zenopsis nebulosa 
+Dory 116-109 John Dory Zeus faber 
+Snail 810-30 Angulate Volute Zidona dufresnei 
+Ocean 636-219 Pout Ocean Pout Zoarces americanus
+Eelpout 74-164 Eelpout Zoarces viviparus  
+Emroldperche 236-15 or Goby Grass Goby Zosterisessor
+Gilded 226-49 Fish or Zungaro Gilded Catfish
+Scallop 220-60 Southern Queen Scallop Zygochlamys delicatula
+Scallop 640-106 Patagonian Scallop Zygochlamys patagonica 
+Shrimp 400-27 or Prawn Giant Gamba Prawn
+Crab 110-25 Mediterranean Green Mediterranean Green Crab
+Flyingfish 200-224 Yellow Flying Fish Cypselurus poecilopterus
+Frog 980-28 Chinese Edible Frog Hoplobatrachus rugulosus
+Sea 328-179 Urchin Giant Red Sea Urchin
+Imperial 842-1 Blackfish Oval Driftfish Schedophilus ovalis
+Shrimp 478-248 Kolibri Shrimp Solenocera agassizii 
+Mantis 598-50 Shrimp Spot-tail Mantis Shrimp Squilla
+Drum 982-210 Corb Umbrina cirrosa  
+Shrimp 448-118 Speckled Shrimp Metapenaeus monoceros 
+Carp 466-85 Mud Carp Cirrhinus molitorella 
+Carp 82-198 Black Carp Mylopharyngodon piceus 
+Barb 818-77 Giant Barb Catlocarpio siamensis 
+Barb 170-14 Tawes Barbonymus gonionotus  
+Golden 240-196 Perch Golden Perch Macquaria ambigua
+Grouper 450-168 Hong Kong Grouper Epinephelus akaara
+Pomfret 518-112 Golden Pomfret Xenobrama microlepis 
+Sandeel 274-177 Greater Sand-eel Hyperoplus immaculatus 
+Knifejaw 766-217 Knifejaw Oplegnathus spp.  
+Whiting 518-15 Japanese sillago Sillago japonica 
+Sandeel 816-189 <i>Great Sandeel</i> Hyperoplus lanceolatus 
+Ocean 94-243 Sunfish Ocean Sunfish Mola mola
+Tang 210-117 Sailfin Tang Zebrasoma veliferum 
+Beardfish 442-5 Beardfish Polymixia spp.  
+Wrasse 474-36 Blackstripe Wrasse Oxycheilinus arenatus 
+Grouper 720-170 Hawaiian Grouper Hyporthodus quernus 
+Damselfish 968-17 Sombre Damselfish Chrysiptera glauca 
+Wrasse 780-221 Razor Wrasse Xyrichtys spp. 
+Barracuda 560-230 Japanese Barracuda Sphyraena japonica 
+Surgeonfish 168-59 Brown Surgeonfish Acanthurus nigrofuscus 
+Surgeonfish 22-209 Dusky Surgeonfish Acanthurus gahhm 
+Tang 926-132 <u>or</u> Surgeonfish Bluelined Surgeon Acanthurus
+Sergeant-major 134-199 Sergeant-major Abudefduf saxatilis  
+Tang 037-43 or Surgeonfish Convict Surgeonfish Acanthurus
+Goatfish 998-229 Manybar Goatfish Parupeneus multifasciatus 
+Trumpetfish 592-1 Atlantic Trumpetfish Aulostomus maculatus 
+Scorpionfish 968-83 Large-headed Scorpionfish Pontinus macrocephalus 
+Leatherjacket 614-76 Blue-lined Leatherjacket Meuschenia galii 
+Snapper 654-137 <i>Pink Snapper</i> Lutjanus goreensis 
+Surgeonfish 506-184 or Tang Redtail Surgeonfish 
+ 676-138     
+Surgeonfish 522-97 Palani Acanthurus dussumieri  
+Crab 374-255 Spanner or Kona Crab Spanner
+Jobfish 104-50 or Snapper Oblique-banded Snapper Pristipomoides
+Threadfin 954-211 or Jack Threadfin Jack Carangoides
+Goatfish 470-107 Yellowstripe Goatfish Mulloidichthys flavolineatus 
+Goby 920-215 Pointed-tailed Goby Pseudapocryptes elongates 
+Anchovy 26-245 Teri Anchovy Stolephorus commersonnii 
+Brown 230-113 Box Crab Brown Box Crab
+Sea 368-21 Cucumber Donkey Dung Sea Cucumber
+Sea 634-49 Cucumber White Spot Cucumber Holothuria
+Sea 762-106 Cucumber Tubular Sea Cucumber Holothuria
+Sea 60-112 Cucumber Four-sided Sea Cucumber Istichopus
+Trout 564-114 Golden Trout Oncorhynchus aguabonita 
+Shad 182-205 Bonga Shad Ethmalosa fimbriata 
+Chanda 442-143 Himalayan Glassy Perchlet Parambassis baculis
+Barb 029-118 Pool Barb Puntius sophore 
+Carp 774-136 Reba Carp Cirrhinus reba 
+Beardfish 928-111 Pacific Beardfish Polymixia berndti 
+Surgeonfish 898-194 Blackspot Sergeant Abudefduf sordidus 
+Butterfish 554-224 Southwest Atlantic Butterfish Stromateus brasiliensis
+Gourami 948-107 Snake-skinned Gourami Trichopodus pectoralis 
+Jellyfish 638-97 Cannonball Jellyfish Stomolophus meleagris 
+Lobster 798-76 Slipper Blunt Slipper Lobster Scyllarides
+Parrotfish 624-166 Stareyed Parrotfish Calotomus carolinus 
+Parrotfish 956-194 Spectacled Parrotfish Chlorurus perspicillatus 
+Mullet 522-248 Sharpnose mullet Neomyxus leuciscus 
+Cardinalfish 50-254 Spotted Cardinalfish Ostorhinchus maculiferus 
+Goatfish 776-8 White Saddle Goatfish Parupenaeus cilatus
+Gourami 486-254 or Goramy Giant Gourami Osphronemus
+Hawkfish 470-157 Redspotted Hawkfish Cirrhitus pinnulatis 
+Threadfin 164-188 King Threadfin Polydactylus macrochir 
+Crab 664-17 Swimming Green Crab Carcinus maenas
+Barnacle 242-255 Goose Barnacle Pollicipes pollicipes 
+Corvina 746-104 Striped Corvina Cynocion reticulatus 
+Wrasse 994-173 Oriental Maori Wrasse Oxycheilinus orientalis
+Yellow 402-194 Irish Lord Yellow Irish Lord
+Surgeonfish 740-37 Orangespot Surgeonfish Acanthurus olivaceus 
+Threadfin 50-35 Bream Delagoa Threadfin Bream Nemipterus
+Fusilier 208-135 Redbelly Yellowtail Fusilier Caesio cuning
+Snook 960-3 Largescale Fat Snook Centropomus mexicanus
+Croaker 690-219 Argentine Croaker Umbrina canosai 
+Squid 800-95 or Calamari Longfin Inshore Squid
+Weakfish 430-228 Jamacian Weakfish Cynoscion jamaicensis 
+Puffer 682-3 Moontail Blassop Lagocephalus lunaris 
+Eel 886-35 Spiny Lesser Spiny Eel Macrognathus
+Eel 978-72 Spiny Tiretrack Eel Mastacembelus armatus
+Black 782-29 Sea Salmon Black Sea Salmon
+Crab 638-234 Swimming or Mud Crab or
+Goby 013-112 Bearded Worm Goby Taenioides cirratus
+Crab 658-97 Swimming or Mud Crab or
+Crab 284-8 Swimming or Mud Crab or
+Anchovy 340-211 moustached Thryssa Thryssa mystax 
+Garfish 896-65 or Needlefish Freshwater Garfish Xenentodon
+Crab 940-166 Swimming Red Swimming Crab Monomia
+Stingray 580-122 Southern Stingray Dasyatis americana 
+Scallop 144-114 Farrer's Scallop Chlamys farreri 
+Mackerel 358-89 Short Mackerel Rastrelliger brachysoma 

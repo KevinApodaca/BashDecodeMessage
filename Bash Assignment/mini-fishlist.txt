@@ -1,0 +1,6 @@
+hake 3-115
+snapper 5-219
+bass 181-99
+tuna 9-105
+char 007-106
+pike 846-723
